@@ -15,18 +15,18 @@
     }
     .cms-sis-cat-lg {
         width: 237px;
-        height: 448px;
+        height: 482px;
     }
-    .cms-sis-cat-lg:hover, .cms-banner-bg:hover {
+    .cms-sis-cat-lg:hover, .cms-sis-cat-sm:hover, .cms-banner-bg:hover, .cms-theme-lg:hover {
         cursor: pointer;
         opacity: .8;
     }
-    .cms-sis-cat-lg:hover .cms-sis-cat-name{
+    .cms-sis-cat-lg:hover .cms-sis-cat-name, .cms-sis-cat-sm:hover .cms-sis-cat-name {
         background: #000;
         color: #FFF
     }
     .cms-sis-cat-lg-pos {
-        padding-top: 380px
+        padding-top: 427px
     }
     ul.cms-tabs li.cms-sis-tabs {
         border-top: 1px solid #000; 
@@ -51,6 +51,24 @@
     body {
         background:#fff!important;
     }
+
+    .cms-sis-cat-sm {
+        width: 237px;
+        height: 230px;
+    }
+
+    .cms-sis-cat-sm-pos {
+        padding-top: 179px
+    }
+
+    .cms-sis-cat-sm-spacer {
+        width: 100%;
+        height: 16px
+    }
+    .cms-sis-half-hero {
+        width: 996px;
+        height: 250px;
+    }
 </style>
 <div class="cms-container" id="cms-warehousesis">
 
@@ -70,44 +88,71 @@
 
         <!-- Women's Tab -->
         <div class="cms-full cms-tab-content current" id="jsTab-1">
-            <div class="lfloat">
-                <a id="js-sis-SB1-exiturl" href="">  
-                    <div id="js-sis-SB1-img" class="cms-sis-cat-lg txtCenter cms-animate" data-load="lazy" data-bg="">
-                        <div class="cms-sis-cat-lg-pos">
-                            <div id="js-sis-SB1-namecopy" class="cms-sis-cat-name"></div>
+            <div class="cms-full">
+                <div class="lfloat">
+                    <a id="js-sis-SB1-exiturl" href="">  
+                        <div id="js-sis-SB1-img"  class="cms-sis-cat-lg txtCenter cms-animate" data-load="lazy" data-bg="">
+                            <div class="cms-sis-cat-lg-pos">
+                                <div id="js-sis-SB1-namecopy" class="cms-sis-cat-name"></div>
+                            </div>
                         </div>
-                    </div>
-                </a>
-            </div>
-            <div class="lfloat cms-spacer-grid">
-                <a id="js-sis-SB2-exiturl" href="">  
-                    <div id="js-sis-SB2-img" class="cms-sis-cat-lg txtCenter cms-animate" data-load="lazy" data-bg="">
-                        <div class="cms-sis-cat-lg-pos">
-                            <div id="js-sis-SB2-namecopy" class="cms-sis-cat-name"></div>
+                    </a>
+                </div>
+                <div class="lfloat cms-spacer-grid">
+                    <a id="js-sis-SB2-exiturl" href=""> 
+                        <div id="js-sis-SB2-img"  class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="">
+                            <div class="cms-sis-cat-sm-pos">
+                                <div id="js-sis-SB2-namecopy" class="cms-sis-cat-name"></div>
+                            </div>
                         </div>
-                    </div>
-                </a>
-            </div>
-            <div class="lfloat cms-spacer-grid">
-                <a id="js-sis-SB3-exiturl" href="">  
-                    <div id="js-sis-SB3-img" class="cms-sis-cat-lg txtCenter cms-animate" data-load="lazy" data-bg="">
-                        <div class="cms-sis-cat-lg-pos">
-                            <div id="js-sis-SB3-namecopy" class="cms-sis-cat-name"></div>
+                    </a>
+                    <div class="cms-sis-cat-sm-spacer"></div>
+                    <a id="js-sis-SB3-exiturl" href=""> 
+                        <div id="js-sis-SB3-img"  class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="">
+                            <div class="cms-sis-cat-sm-pos">
+                                <div id="js-sis-SB3-namecopy" class="cms-sis-cat-name"></div>
+                            </div>
                         </div>
-                    </div>
-                </a>
-            </div>
-            <div class="lfloat cms-spacer-grid">
-                <a id="js-sis-SB4-exiturl" href="">  
-                    <div id="js-sis-SB4-img" class="cms-sis-cat-lg txtCenter cms-animate" data-load="lazy" data-bg="">
-                        <div class="cms-sis-cat-lg-pos">
-                            <div id="js-sis-SB4-namecopy" class="cms-sis-cat-name"></div>
+                    </a>
+                </div>
+                <div class="lfloat cms-spacer-grid">
+                    <a id="js-sis-SB4-exiturl" href="">  
+                        <div id="js-sis-SB4-img"  class="cms-sis-cat-lg txtCenter cms-animate" data-load="lazy" data-bg="">
+                            <div class="cms-sis-cat-lg-pos">
+                                <div id="js-sis-SB4-namecopy" class="cms-sis-cat-name"></div>
+                            </div>
                         </div>
-                    </div>
-                </a>
-            </div>
+                    </a>
+                </div>
+                <div class="lfloat cms-spacer-grid">
+                    <a id="js-sis-SB5-exiturl" href=""> 
+                        <div id="js-sis-SB5-img" class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="">
+                            <div class="cms-sis-cat-sm-pos">
+                                <div id="js-sis-SB5-namecopy" class="cms-sis-cat-name"></div>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="cms-sis-cat-sm-spacer"></div>
+                    <a id="js-sis-SB6-exiturl" href=""> 
+                        <div id="js-sis-SB6-img" class="cms-sis-cat-sm txtCenter cms-animate" data-load="lazy" data-bg="">
+                            <div class="cms-sis-cat-sm-pos">
+                                <div id="js-sis-SB6-namecopy" class="cms-sis-cat-name"></div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
         </div>
     </div>
+
+    <!-- Half Hero -->
+    <div class="cms-row">
+        <div class="cms-full mtxxl">
+            <a id="js-sis-HH-exiturl" href="">
+                <div class="cms-sis-half-hero" id="js-sis-HH-img" data-load="lazy" data-bg=""></div>
+            </a>
+        </div>
+    </div>    
 
     <!-- About -->
     <div class="cms-row">
@@ -136,7 +181,7 @@
         var createLooperObject = [];
         var fetchedData;
         var spreadsheetID = "1wYQ1pqEUyYPVonghDC677Mzq_hd2Lrguc2S5rh4ouXA";
-        var worksheetID = 14;
+        var worksheetID = 15;
         var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/" + worksheetID + "/public/values?alt=json";
         $.getJSON(url, function (data) {
             fetchedData = data.feed.entry;
@@ -159,7 +204,6 @@
 
     function displayDataUsingHandlebars(data) {
         for (var i = 0; i < data.length - 2; i++) {
-
             var curplacecode = "js-sis-" + data[i]['placement'] + "-img";
             var curplaceimg = $("#js-sis-" + data[i]['placement'] + "-img");
             curplaceimg.attr("data-bg", data[i]['imageURL']);
@@ -170,9 +214,8 @@
             $("#js-sis-" + data[i]['placement'] + "-namecopy").html(data[i]['subcatNameCopy']);
         }
 
-        $("#js-sis-" + data[5]['placement']).attr("src", data[5]['imageURL']);
-        $("#js-sis-" + data[6]['placement']).text("" + data[6]['imageURL']);
-
+        $("#js-sis-" + data[8]['placement']).attr("src", data[8]['imageURL']);
+        $("#js-sis-" + data[9]['placement']).text("" + data[9]['imageURL']);
     }
 
     $(function () {
