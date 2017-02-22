@@ -14,14 +14,14 @@
         width: 50%;
         display: block;
     }
-    #bxslider {
+    #bxslider, #bxslider2 {
         margin:0;
         padding: 0;
     }
-    #bxslider ul{
+    #bxslider ul, #bxslider2 ul{
         list-style: none;
     }
-    #bxslider li{
+    #bxslider li, #bxslider2 li{
         width: 386px!important;
         margin-right: -190px;
         height: 200px;
@@ -38,7 +38,7 @@
     .bx-wrapper .bx-controls-direction a {
         position: absolute;
         top: 50%;
-        margin-top: -32px;
+        margin-top: -69px;
         outline: 0;
         width: 50px;
         height: 50px;
@@ -78,7 +78,7 @@
 
     <div class="cms-row">
         <div class="cms-full">
-            <div class="cms-section-heading">Highlights of the week</div>
+            <div class="cms-section-heading" id="js-r2headline-sec-title">Highlights of the week</div>
         </div>
         <div class="cms-full">
             <ul id="bxslider">
@@ -88,7 +88,7 @@
 
     <div class="cms-row">
         <div class="cms-full mtxl">
-            <div class="cms-section-heading">Featured</div>
+            <div class="cms-section-heading" id="js-r3headline-sec-title">Featured</div>
         </div>
         <div class="cms-full mbxl txtCenter">
             <a id="js-halfhero-exiturl" href="">
@@ -99,7 +99,7 @@
 
     <div class="cms-row">
         <div class="cms-full">
-            <div class="cms-section-heading">Trending Now</div>
+            <div class="cms-section-heading" id="js-r4headline-sec-title">Trending Now</div>
         </div>
         <div class="cms-full mbxl txtCenter">
             <a id="js-hero2-exiturl" href="">
@@ -107,12 +107,22 @@
             </a>
         </div>
     </div>
-
+    
     <div class="cms-row">
         <div class="cms-full">
-            <div class="cms-section-heading">Just Landed</div>
+            <div class="cms-section-heading" id="js-r5headline-sec-title">Shop BY Category</div>
         </div>
-        <div class="cms-full mbxl txtCenter">
+        <div class="cms-full">
+            <ul id="bxslider2">
+            </ul>
+        </div>
+    </div>
+
+    <div class="cms-row">
+        <div class="cms-full" style="margin-top:-40px">
+            <div class="cms-section-heading" id="js-r6headline-sec-title">Just Landed</div>
+        </div>
+        <div class="cms-full mbxl txtCenter" style="margin-top:-10px">
             <a id="js-hero3-exiturl" href="">
                 <img id="js-hero3-img" src="" width="100%">
             </a>
@@ -419,6 +429,8 @@
             console.log(createLooperObject);
             displayDataUsingHandlebars(createLooperObject);
             displayR2banners(createLooperObject);
+            displayR5banners(createLooperObject);
+            displaySectionTitles(createLooperObject);
         });
     }
 
@@ -432,8 +444,8 @@
     
     /* create json object to loop over & display r2 &*/
     function displayR2banners(data) {
-        var aliceSKUCarousel = [];        
-        for (var i = 4; i < data.length; i++) {
+        var aliceSKUCarousel = [];
+        for (var i = 4; i < 9; i++) {
             aliceSKUCarousel.push(
                 {
                     itemImage: data[i]['imageURL'],
@@ -443,6 +455,26 @@
         }
         createSkuDOMObject(aliceSKUCarousel, bxslider);
     }
+    
+    function displayR5banners(data) {
+        var aliceSKUCarousel = [];
+        for (var i = 10; i < 14; i++) {
+            aliceSKUCarousel.push(
+                {
+                    itemImage: data[i]['imageURL'],
+                    itemPDV: data[i]['deeplink']
+                }
+            );
+        }
+        createSkuDOMObject2(aliceSKUCarousel, bxslider2)
+    }
+    
+    function displaySectionTitles(data) {
+        console.log("Titles " + data[15]['placement'] + " " + data[15]['imageURL']);
+        for (var i = 14; i < 19; i++) {
+            $("#js-" + data[i]['placement'] + "-sec-title").html(data[i]['imageURL']);
+        }
+    }
 
     function createSkuDOMObject(skuData) {
         for (i = 0; i < skuData.length; i++) {
@@ -450,6 +482,18 @@
         }
         
         $('#bxslider').bxSlider({
+            minSlides: 1,
+            pager: false
+        });
+    }
+    
+    
+    function createSkuDOMObject2(skuData) {
+        for (i = 0; i < skuData.length; i++) {
+            $("#bxslider2").append("<li><a href='" + skuData[i].itemPDV + "'><img src='" + skuData[i].itemImage + "'></a></li>");
+        }
+
+        $('#bxslider2').bxSlider({
             minSlides: 1,
             pager: false
         });
