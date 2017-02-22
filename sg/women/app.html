@@ -458,7 +458,7 @@
     
     function displayR5banners(data) {
         var aliceSKUCarousel = [];
-        for (var i = 10; i < 14; i++) {
+        for (var i = 9; i < 14; i++) {
             aliceSKUCarousel.push(
                 {
                     itemImage: data[i]['imageURL'],
@@ -466,6 +466,7 @@
                 }
             );
         }
+        console.log("" + aliceSKUCarousel[0]['itemImage']);
         createSkuDOMObject2(aliceSKUCarousel, bxslider2)
     }
     
