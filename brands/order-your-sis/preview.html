@@ -1,0 +1,38 @@
+<link rel="stylesheet" href="//static.zalora.com/css/global.css">
+<div id="createPreview"></div>
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+    function fetchDataFromExcel() {
+        $.getJSON("https://script.google.com/macros/s/AKfycbxOLElujQcy1-ZUer1KgEvK16gkTLUqYftApjNCM_IRTL3HSuDk/exec?id=12PZy340wsB4Y33fN9QP4u7LUb-4HPMVifsSZD3aFtVQ&sheet=DesktopJSON", function (data) {
+            var data = data.DesktopJSON[0].Code;
+            console.log(data);
+            
+            //render the html
+            $("#createPreview").html(data);
+            
+            //update img src links
+            $(".cms-category-placeholders img").each(function () {
+                var imageURL = $(this).attr("src");
+                imageURL = imageURL.replace("[MEDIA_BASE_URL]", "https://static-hk.zacdn.com");
+                $(this).attr("src", imageURL);
+            });
+
+            //update background images
+            var backrgoundImages = $("style")[0].innerHTML;
+            for (i = 0; i < 3; i++) {
+                backrgoundImages = backrgoundImages.replace("[MEDIA_BASE_URL]", "https://static-hk.zacdn.com");
+            }
+            $("style").html(backrgoundImages);
+
+            //preview hacks for perfect previews
+            $("body").css("margin", "0 auto"); 
+            $("body").css("width", "996px"); 
+
+        });
+    }
+
+    $(function () {
+        fetchDataFromExcel();
+    });
+</script>
