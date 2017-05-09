@@ -5,23 +5,26 @@
 <script>
     function fetchDataFromExcel() {
         $.getJSON("https://script.google.com/macros/s/AKfycbxOLElujQcy1-ZUer1KgEvK16gkTLUqYftApjNCM_IRTL3HSuDk/exec?id=12PZy340wsB4Y33fN9QP4u7LUb-4HPMVifsSZD3aFtVQ&sheet=DesktopJSON", function (data) {
-            var data = data.DesktopJSON[0].Code;
-            console.log(data);
+            var html = data.DesktopJSON[0].Code;
+            var country = data.DesktopJSON[0].Country;
+            
+            //construct cdn url based on country
+            var cdnURL = "https://static-" + country + ".zacdn.com";
             
             //render the html
-            $("#createPreview").html(data);
+            $("#createPreview").html(html);
             
             //update img src links
             $(".cms-category-placeholders img").each(function () {
                 var imageURL = $(this).attr("src");
-                imageURL = imageURL.replace("[MEDIA_BASE_URL]", "https://static-hk.zacdn.com");
+                imageURL = imageURL.replace("[MEDIA_BASE_URL]", cdnURL);
                 $(this).attr("src", imageURL);
             });
 
             //update background images
             var backrgoundImages = $("style")[0].innerHTML;
             for (i = 0; i < 3; i++) {
-                backrgoundImages = backrgoundImages.replace("[MEDIA_BASE_URL]", "https://static-hk.zacdn.com");
+                backrgoundImages = backrgoundImages.replace("[MEDIA_BASE_URL]", cdnURL);
             }
             $("style").html(backrgoundImages);
 
