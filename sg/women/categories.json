@@ -1,0 +1,821 @@
+{
+    "name": "ZALORA",
+    "children": [
+        {
+          "name": "Premium",
+          "children":[                
+                {"name": "Clothing"},
+                {"name": "Shoes"},
+                {"name": "Bags"},
+                {"name": "Accessories"},
+                {"name": "Beauty"},
+                {"name": "Watches"}
+            ]  
+        },
+        {
+          "name": "Styling & Treatments"
+        },
+        {
+          "name": "Bridesmaid Dresses"
+        },
+        {
+          "name": "Yogawear"
+        },
+        {
+            "name": "Dresses",
+            "children":[
+                {"name": "Party Dresses"},
+                {"name": "Work Dresses"},
+                {"name": "Summer Dresses"},
+                {"name": "Bodycon Dresses"},
+                {"name": "Evening Dresses"},
+                {"name": "Mini Dresses"},
+                {"name": "Maxi Dresses"}
+            ] 
+        },
+        {
+          "name": "Lounge Sports"
+        },
+        {
+          "name": "Pantsuit"
+        },
+        {
+            "name": "Clothing",
+            "children":[                
+                {
+                    "name": "Dresses",
+                    "children":[
+                        {"name": "Party Dresses"},
+                        {"name": "Work Dresses"},
+                        {"name": "Summer Dresses"},
+                        {"name": "Bodycon Dresses"},
+                        {"name": "Evening Dresses"},
+                        {"name": "Mini Dresses"},
+                        {"name": "Maxi Dresses"}
+                    ]
+                },
+                {
+                    "name": "Tops",
+                    "children":[
+                        {"name": "Blouses"},
+                        {"name": "T-Shirts"},
+                        {"name": "Tanks & Camisoles"},
+                        {"name": "Shirts"},
+                        {"name": "Crop Tops"}
+                    ]
+                },
+                {
+                    "name": "Skirts",
+                    "children":[
+                        {"name": "Mini Skirts"},
+                        {"name": "Midi Skirts"},
+                        {"name": "Maxi Skirts"},
+                        {"name": "Pencil Skirts"}
+                    ]
+                },
+                {
+                    "name": "Playsuits & Jumpsuits"
+                },
+                {
+                    "name": "Modern Ethnic Wear",
+                    "children":[
+                        {"name": "Kurti & Sarees"},
+                        {"name": "Dresses"},
+                        {"name": "Tops"},
+                        {"name": "Bottoms"},
+                        {"name": "Playsuits & Jumpsuits"},
+                        {"name": "Jackets & Coats"},
+                        {"name": "Baju Kurungs"},
+                        {"name": "Cheongsams"}
+                    ]
+                },
+                {
+                    "name": "Shorts",
+                    "children":[
+                        {"name": "Casual Shorts"},
+                        {"name": "Tailored Shorts"}
+                    ]
+                },
+                {
+                    "name": "Pants & Leggings",
+                    "children":[
+                        {"name": "Skinny Pants"},
+                        {"name": "Straight Leg Pants"},
+                        {"name": "Cropped Pants"},
+                        {"name": "Leggings"},
+                        {"name": "Wide-legged pants"}
+                    ]
+                },  
+                {
+                    "name": "Beachwear",
+                    "children":[
+                        {"name": "Bikinis"},
+                        {"name": "Swimsuits"}
+                    ]
+                }, 
+                {
+                    "name": "Outerwear",
+                    "children":[
+                        {"name": "Jumpers & Cardigans"},
+                        {"name": "Jackets & Coats"},
+                        {"name": "Blazers"},
+                        {"name": "Hoodies & Sweatshirts"}
+                    ]
+                },
+                {
+                    "name": "Jeans",
+                    "children":[
+                        {"name": "Skinny Jeans"},
+                        {"name": "Boyfriend Jeans"},
+                        {"name": "Flare Jeans"},
+                        {"name": "Coloured Jeans"},
+                        {"name": "Printed Jeans"},
+                        {"name": "Jeggings"}
+                    ]
+                },
+                {
+                    "name": "Lingerie & Sleepwear",
+                    "children":[
+                        {
+                            "name": "Lingerie",
+                            "children":[
+                                {
+                                    "name": "Bras",
+                                    "children":[
+                                        {"name": "Bra & Bralettes"},
+                                        {"name": "Strapless & Multi-way"},
+                                        {"name": "Sports Bras"},
+                                        {"name": "Bra Accessories"}
+                                    ]
+                                },
+                                {
+                                    "name": "Panties",
+                                    "children":[
+                                        {"name": "Briefs"},
+                                        {"name": "Thongs"},
+                                        {"name": "Multipacks"}
+                                    ]
+                                },
+                                {"name": "Lingerie Set"},
+                                {"name": "Shapewear"},
+                                {"name": "Bodies & Corsets"},
+                                {"name": "Mix & Match"}
+                            ]                            
+                        },
+                        {"name": "Shapewear"},
+                        {"name": "Tights"},
+                        {
+                            "name": "Sleepwear",
+                            "children":[
+                                {"name": "Sleep Tops"},
+                                {"name": "Sleep Bottoms"},
+                                {"name": "Pajama Sets"},
+                                {"name": "Nighties, Slips & Teddies"},
+                                {"name": "Robes"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Petite"
+                },
+                {
+                    "name": "Knitwear & Cardigans"
+                },
+                {
+                    "name": "Hoodies & Sweatshirts"
+                },
+                {
+                    "name": "Blazers"
+                },
+                {
+                    "name": "Jackets & Coats",
+                    "children":[
+                        {"name": "Denim Jackets"},
+                        {"name": "Parkas & Capes"},
+                        {"name": "Bomber Jackets"},
+                        {"name": "Leather Jackets"},
+                        {"name": "Down Jackets"},
+                        {"name": "Trench Coat"},
+                        {"name": "Coats"}
+                    ]                    
+                },
+                {
+                    "name": "Plus Size"
+                },
+                {
+                    "name": "Maternity"
+                },
+                {
+                    "name": "Socks"
+                },
+                {
+                    "name": "Denim"
+                }
+            ]
+        },
+        {
+            "name": "Shoes",
+            "children":[                
+                {
+                    "name": "Flats",
+                    "children":[
+                        {"name": "Ballet Flats"},
+                        {"name": "Peep Toes"},
+                        {"name": "Loafers & Boat Shoes"},
+                        {"name": "Oxfords & Brogues"}
+                    ]
+                },
+                {
+                    "name": "Heels",
+                    "children":[
+                        {"name": "Pumps"},
+                        {"name": "Peep Toes"},
+                        {"name": "Platforms"},
+                        {"name": "Strappy Heels"},
+                        {"name": "High Heels"},
+                        {"name": "Mid Heels"},
+                        {"name": "Low Heels"}
+                    ]
+                },
+                {
+                    "name": "Sandals",
+                    "children":[
+                        {"name": "Flat Sandals"},
+                        {"name": "Espadrilles"}
+                    ]
+                },
+                {
+                    "name": "Wedges",
+                    "children":[
+                        {"name": "Wedge Sandals"},
+                        {"name": "Wedge Pumps"},
+                        {"name": "Peep Toes Wedges"}
+                    ]
+                },
+                {"name": "Slip-Ons"},
+                {"name": "Boots"},
+                {"name": "Sneakers"},
+                {"name": "Flip Flops"},
+                {"name": "Sports Shoes"},
+                {"name": "Shoes Accessories"}
+            ] 
+        },
+        {
+            "name": "Accessories",
+            "children":[                
+                {
+                    "name": "Jewellery",
+                    "children":[
+                        {"name": "Necklaces"},
+                        {
+                            "name": "Earrings",
+                            "children":[
+                                {"name": "Hoop"},
+                                {"name": "Others"}
+                            ] 
+                        },
+                        {"name": "Bracelets & Bangles"},
+                        {"name": "Rings"},
+                        {"name": "Charms"}
+                    ]
+                },
+                {
+                    "name": "Belts",
+                    "children":[
+                        {"name": "High Waisted"},
+                        {"name": "Wide"},
+                        {"name": "Skinny"},
+                        {"name": "Leather"},
+                        {"name": "Non-leather"}
+                    ]
+                },
+                {
+                    "name": "Sunglasses",
+                    "children":[
+                        {"name": "Rectangle"},
+                        {"name": "Oversized"},
+                        {"name": "Retro"},
+                        {"name": "Cat Eye"},
+                        {"name": "Round"},
+                        {"name": "Squared"},
+                        {"name": "Pilot"}
+                    ]
+                },
+                {"name": "Glasses"},
+                {
+                    "name": "Scarves & Shawls",
+                    "children":[
+                        {"name": "Scarves"},
+                        {"name": "Hijabs"}
+                    ]
+                },
+                {
+                    "name": "Technology",
+                    "children":[
+                        {
+                            "name": "Phone Cases",
+                            "children":[
+                                {"name": "iPhone Cases"}
+                            ]
+                        },
+                        {"name": "Laptop Bags"},
+                        {"name": "Headphones"},
+                        {"name": "Tablet  Cases"},
+                        {"name": "laptop Cases"}
+                    ]
+                },
+                {"name": "Shorts"},
+                {
+                    "name": "Hair Accessories",
+                    "children":[
+                        {"name": "Hair Ties"},
+                        {"name": "Clips"},
+                        {"name": "Bows"},
+                        {"name": "Fascinators"},
+                        {"name": "Head Bands"}
+                    ]
+                },
+                {"name": "Stationery"},
+                {
+                    "name": "Gloves",
+                    "children":[
+                        {"name": "Arm Warmers"},
+                        {"name": "Regular"},
+                        {"name": "Fingerless"},
+                        {"name": "Mittens"}
+                    ]
+                },
+                {
+                    "name": "Hats & Caps",
+                    "children":[
+                        {"name": "Hats"},
+                        {"name": "Caps"},
+                        {"name": "Beanies"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bags",
+            "children":[                
+                {"name": "Designer Bags"},
+                {"name": "Backpacks"},
+                {"name": "Shopper Bags"},
+                {"name": "Shoulder Bags"},
+                {"name": "Top Handle"},
+                {"name": "Sling Bags"},
+                {"name": "Clutches"},
+                {"name": "Chronograph Watches"},
+                {"name": "Fashion Watches"},
+                {
+                    "name": "Travel",
+                    "children":[                
+                        {"name": "Travel Accessories"},
+                        {"name": "Weekender"},
+                        {"name": "Travel Backpacks"},
+                        {"name": "Wheeled Luggage"},
+                        {"name": "Hand Luggage"},
+                        {"name": "Soft Case Luggage"},
+                        {"name": "Hard Case Luggage"}
+                    ]  
+                },
+                {"name": "Leather"},
+                {"name": "laptop Bags"},
+                {"name": "Satchels"},
+                {"name": "Luxury Watches"},
+                {
+                    "name": "Wallets & Purses",
+                    "children":[                
+                        {"name": "Wallets"},
+                        {"name": "Purses"},
+                        {"name": "Wallets2-to-recategorize"},
+                        {"name": "Coin Purses"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sports",
+            "children":[                
+                {
+                    "name": "Clothing",
+                    "children":[                
+                        {"name": "Socks"},
+                        {
+                            "name": "Bottoms",
+                            "children":[
+                                {"name": "Capris"},
+                                {"name": "Shorts"}
+                            ]
+                        },
+                        {
+                            "name": "Tops",
+                            "children":[
+                                {"name": "Tanks"},
+                                {"name": "T-shirts"}
+                            ]
+                        },
+                        {"name": "Swimwear"},
+                        {"name": "T-shirts"},
+                        {"name": "Tanks/Singlets"},
+                        {"name": "Polos"},
+                        {"name": "Outerwear"},
+                        {"name": "Sports Bra"},
+                        {"name": "Capris"},
+                        {"name": "Shorts"},
+                        {"name": "Skirts"},
+                        {"name": "Rashguards"},
+                        {"name": "Boardshorts"}
+                    ]  
+                },
+                {
+                    "name": "Footwear",
+                    "children":[                
+                        {"name": "Sneakers"},
+                        {
+                            "name": "Running",
+                            "children":[
+                                {"name": "Neutral"},
+                                {"name": "Stability"},
+                                {"name": "Barefoot"}
+                            ]
+                        },
+                        {"name": "Training"},
+                        {"name": "Lifestyle"},
+                        {"name": "Motorsports"},
+                        {"name": "Sandals & Flip-Flops"},
+                        {"name": "Others"}
+                    ]  
+                },
+                {
+                    "name": "Bags & Backpacks",
+                    "children":[                
+                        {"name": "Backpacks"},
+                        {"name": "Messengers/Totes"},
+                        {"name": "Waistpouches"},
+                        {"name": "Shoebags"},
+                        {"name": "Totes"},
+                        {"name": "Duffle Bags"},
+                        {"name": "Others"}
+                    ]  
+                },
+                {
+                    "name": "Accessories",
+                    "children":[                
+                        {"name": "Water Bottles"},
+                        {"name": "Socks"},
+                        {"name": "Belts"},
+                        {"name": "Caps"},
+                        {"name": "Boxing & MMA Equipments"},
+                        {"name": "Others"}
+                    ]  
+                },
+                {
+                    "name": "Training",
+                    "children":[                
+                        {
+                            "name": "Clothing",
+                            "children":[                
+                                {"name": "Socks"},
+                                {
+                                    "name": "Bottoms"
+                                },
+                                {
+                                    "name": "Tops"
+                                },
+                                {"name": "T-shirts"},
+                                {"name": "Tanks/Singlets"},
+                                {"name": "Sports Bra"},
+                                {"name": "Capris"},
+                                {"name": "Shorts"}
+                            ]  
+                        },
+                        {"name": "Footwear"},
+                        {"name": "Accessories"},
+                        {
+                            "name": "Bags & Backpacks",
+                            "children":[                
+                                {"name": "Backpacks"},
+                                {"name": "Duffles"},
+                                {"name": "Shoebags"},
+                                {"name": "Others"}
+                            ] 
+                        }
+                    ]  
+                },
+                {
+                    "name": "Running",
+                    "children":[                
+                        {
+                            "name": "Clothing",
+                            "children":[                
+                                {"name": "Socks"},
+                                {
+                                    "name": "Bottoms"
+                                },
+                                {
+                                    "name": "Tops"
+                                },
+                                {"name": "T-shirts"},
+                                {"name": "Tanks/Singlets"},
+                                {"name": "Sports Bras"},
+                                {"name": "Capris"},
+                                {"name": "Shorts"}
+                            ]  
+                        },
+                        {
+                            "name": "Footwear",
+                            "children":[                
+                                {"name": "Neutral"},
+                                {"name": "Stability"},
+                                {"name": "Barefoot"}
+                            ] 
+                        },
+                        {
+                            "name": "Accessories",
+                            "children":[                
+                                {"name": "Caps"},
+                                {"name": "Water Bottles"},
+                                {"name": "Socks"},
+                                {"name": "Belts"},
+                                {"name": "Others"}
+                            ] 
+                        }
+                    ]  
+                },
+                {
+                    "name": "Boxing & MMA",
+                    "children":[                
+                        {
+                            "name": "Clothing",
+                            "children": [
+                                {"name": "T-shirts"},
+                                {"name": "Tanks & Singlets"},
+                                {"name": "Shorts"}
+                            ]
+                        },
+                        {"name": "Accessories & Equipments"},
+                        {"name": "Socks"},
+                        {"name": "Belts"},
+                        {"name": "Others"}
+                    ] 
+                },
+                {
+                    "name": "Lifestyle",
+                    "children":[                
+                        {"name": "Sneakers"},
+                        {
+                            "name": "Clothing",
+                            "children":[                
+                                {"name": "Socks"},
+                                {"name": "Bottoms"},
+                                {"name": "Tops"},
+                                {"name": "T-shirts"},
+                                {"name": "Polos"},
+                                {"name": "Outerwear"}
+                            ]  
+                        },
+                        {
+                            "name": "Footwear",
+                            "children":[                
+                                {"name": "Casual"},
+                                {"name": "Motorsports"},
+                                {"name": "Flip FLops"}
+                            ] 
+                        },
+                        {
+                            "name": "Accessories",
+                            "children":[                
+                                {"name": "Caps"},
+                                {"name": "Water Bottles"},
+                                {"name": "Socks"},
+                                {"name": "Belts"},
+                                {"name": "Others"}
+                            ] 
+                        },
+                        {
+                            "name": "Bags & Backpacks",
+                            "children":[                
+                                {"name": "Backpacks"},
+                                {"name": "Messengers & Slings"},
+                                {"name": "Totes"},
+                                {"name": "Others"}
+                            ] 
+                        }
+                    ]  
+                },
+                {
+                    "name": "Outdoors",
+                    "children":[                
+                        {
+                            "name": "Clothing",
+                            "children":[                
+                                {"name": "Bottoms"},
+                                {"name": "Hoodies"},
+                                {"name": "T-shirts"},
+                                {"name": "Jackets"},
+                                {"name": "Capris"}
+                            ]  
+                        },
+                        {
+                            "name": "Bags",
+                            "children":[                
+                                {"name": "Backpacks"},
+                                {"name": "Others"}
+                            ] 
+                        }
+                    ]  
+                },
+                {"name": "Yoga"},
+                {
+                    "name": "Swim & Beachwear",
+                    "children":[                
+                        {
+                            "name": "Beachwear",
+                            "children":[                
+                                {"name": "Beach Jumpsuits & Playsuits"},
+                                {"name": "Beach Dresses"},
+                                {"name": "Beach Bottoms"},
+                                {"name": "Beach Tops & Cover Ups"}
+                            ]  
+                        },
+                        {"name": "Swim Accessories"},
+                        {
+                            "name": "Swimwear Sets",
+                            "children":[                
+                                {"name": "Tankini Sets"},
+                                {"name": "Bikini Sets"}
+                            ] 
+                        },
+                        {"name": "Mix & Match"},
+                        {
+                            "name": "Swimwear Bottoms",
+                            "children":[                
+                                {"name": "Board Shorts"},
+                                {"name": "Bikini Bottoms"}
+                            ] 
+                        },
+                        {
+                            "name": "Swimwear Tops",
+                            "children":[                
+                                {"name": "Surf Tops"},
+                                {"name": "Tankini Tops"},
+                                {"name": "Bikini Tops"}
+                            ] 
+                        },
+                        {"name": "Beach Bags"},
+                        {"name": "Sandals & Flip-Flops"},
+                        {"name": "Accessories"},
+                        {"name": "Swimwear"},
+                        {"name": "One Piece Swimsuits"},
+                        {"name": "Bikinis"},
+                        {"name": "Tankinis"},
+                        {"name": "Boardshorts"},
+                        {"name": "Rashguards"}
+                    ]  
+                }
+            ] 
+        },
+        {
+            "name": "Watches",
+            "children":[                
+                {"name": "Smart Watches"},
+                {"name": "Digital"},
+                {"name": "Analogue"},
+                {"name": "Chronograph Watches"},
+                {"name": "Fashion Watches"},
+                {
+                    "name": "Shop By Strap",
+                    "children":[                
+                        {"name": "Metal Strap Watches"},
+                        {"name": "Leather Strap Watches"},
+                        {"name": "Other Strap Watches"}
+                    ]  
+                },
+                {"name": "Sports"},
+                {"name": "Casual Watches"},
+                {"name": "Dress Watches"},
+                {"name": "Luxury Watches"},
+                {
+                    "name": "Straps",
+                    "children":[                
+                        {"name": "Leather Straps"},
+                        {"name": "Metal Straps"},
+                        {"name": "Other Straps"}
+                    ]  
+                }
+            ]              
+        },
+        {
+            "name": "Beauty",
+            "children":[                
+                {
+                    "name": "Premium Beauty",
+                    "children":[                
+                        {"name": "Makeup"},
+                        {"name": "Skin Care"},
+                        {"name": "Body"},
+                        {"name": "Nails"},
+                        {"name": "Hair"},
+                        {"name": "Tools & Brushes"},
+                        {"name": "Palettes & Sets"},
+                        {"name": "Fragrances"}
+                    ]  
+                },
+                {
+                    "name": "Makeup",
+                    "children":[                
+                        {"name": "Face"},
+                        {"name": "Eyes"},
+                        {"name": "Lips"}
+                    ]  
+                },
+                {
+                    "name": "Skin Care",
+                    "children":[                
+                        {"name": "Cleanse"},
+                        {"name": "Moisturize"},
+                        {"name": "Treatments"}
+                    ]  
+                },
+                {
+                    "name": "Skin Concerns",
+                    "children":[                
+                        {"name": "Moisture"},
+                        {"name": "Wrinkle Correcting"},
+                        {"name": "Brightening"}
+                    ]  
+                },
+                {
+                    "name": "Body",
+                    "children":[                
+                        {"name": "Body Washes & Exfoliators"},
+                        {"name": "Body Lotion"},
+                        {"name": "Hand & Footcare"},
+                        {"name": "Treatments"}
+                    ]  
+                },
+                {
+                    "name": "Hair",
+                    "children":[                
+                        {"name": "Shampo & Conditioners"},
+                        {"name": "Hair Masks & Treatments"},
+                        {"name": "Styling"}
+                    ]  
+                },               
+                {
+                    "name": "Nails",
+                    "children":[                
+                        {"name": "Nail Polish"},
+                        {"name": "Nail Effects"},
+                        {"name": "Nail Care & Tools"}
+                    ]  
+                },
+                {
+                    "name": "Tools & Brushes",
+                    "children":[                
+                        {"name": "Face"},
+                        {"name": "Eyes"},
+                        {"name": "Nails"},
+                        {"name": "makeup Bags & Travel Cases"}
+                    ]  
+                },
+                {
+                    "name": "Palettes & Sets",
+                    "children":[                
+                        {"name": "Makeup"},
+                        {"name": "Skin Care"},
+                        {"name": "Body"},
+                        {"name": "Hair"}
+                    ]  
+                }
+            ]  
+        },
+        {
+            "name": "Korean Fashion",
+            "children":[                
+                {
+                    "name": "Clothing",
+                    "children":[                
+                        {"name": "Dresses"},
+                        {"name": "Tops"},
+                        {"name": "Skirts"},
+                        {"name": "Shorts"},
+                        {"name": "Pants & Leggings"},
+                        {"name": "Outerwear"},
+                        {"name": "Jeans"},
+                        {"name": "Playsuits & Jumpsuits"}
+                    ]  
+                },
+                {"name": "Shoes"},
+                {"name": "Bags"},
+                {"name": "Accessories"},
+                {"name": "Beauty"}
+            ]  
+        },
+        {
+          "name": "Grooming"
+        }
+    ]
+}
