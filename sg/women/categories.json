@@ -1,5 +1,5 @@
 {
-    "name": "ZALORA",
+    "name": "Women",
     "children": [
         {
           "name": "Premium",
@@ -11,33 +11,6 @@
                 {"name": "Beauty"},
                 {"name": "Watches"}
             ]  
-        },
-        {
-          "name": "Styling & Treatments"
-        },
-        {
-          "name": "Bridesmaid Dresses"
-        },
-        {
-          "name": "Yogawear"
-        },
-        {
-            "name": "Dresses",
-            "children":[
-                {"name": "Party Dresses"},
-                {"name": "Work Dresses"},
-                {"name": "Summer Dresses"},
-                {"name": "Bodycon Dresses"},
-                {"name": "Evening Dresses"},
-                {"name": "Mini Dresses"},
-                {"name": "Maxi Dresses"}
-            ] 
-        },
-        {
-          "name": "Lounge Sports"
-        },
-        {
-          "name": "Pantsuit"
         },
         {
             "name": "Clothing",
@@ -815,7 +788,366 @@
             ]  
         },
         {
-          "name": "Grooming"
-        }
+            "name": "Trends",
+            "children": [
+                {
+                    "name": "Floral",
+                    "children":[                
+                        {
+                            "name": "Clothing",
+                            "children":[
+                                {"name": "Dresses"},
+                                {"name": "Tops"},
+                                {"name": "Skirts"},
+                                {"name": "Shorts"},
+                                {"name": "Pants & Leggings"},
+                                {"name": "Outerwear"},
+                                {"name": "Playsuits & Jumpsuits"}
+                            ]
+                        },
+                        {"name": "Shoes"},
+                        {"name": "Accessories"},
+                        {"name": "Bags"}
+                    ]
+                },
+                {   
+                     "name": "Kimono"
+                },
+                {
+                    "name": "Office Wear",
+                    "children":[                
+                        {
+                            "name": "Clothing",
+                            "children":[
+                                {"name": "Dresses"},
+                                {"name": "Tops"},
+                                {"name": "Skirts"},
+                                {"name": "Pants & Leggings"},
+                                {"name": "Outerwear"}
+                            ]
+                        },
+                        {"name": "Shoes"},
+                        {"name": "Accessories"},
+                        {"name": "Bags"}
+                    ]
+                },
+                {
+                    "name": "Office Casual"
+                },
+                {
+                    "name": "Business Formal"
+                },
+                {
+                    "name": "Lace",
+                    "children":[                
+                        {
+                            "name": "Clothing",
+                            "children":[
+                                {"name": "Dresses"},
+                                {"name": "Tops"},
+                                {"name": "Skirts"},
+                                {"name": "Shorts"},
+                                {"name": "Pants & Leggings"},
+                                {"name": "Outerwear"},
+                                {"name": "Playsuits & Jumpsuits"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nude and Neutrals",
+                    "children":[                
+                        {
+                            "name": "Clothing",
+                            "children":[
+                                {"name": "Dresses"},
+                                {"name": "Tops"},
+                                {"name": "Skirts"},
+                                {"name": "Shorts"},
+                                {"name": "Pants & Leggings"},
+                                {"name": "Outerwear"},
+                                {"name": "Playsuits & Jumpsuits"}
+                            ]
+                        },
+                        {"name": "Shoes"},
+                        {"name": "Accessories"},
+                        {"name": "Bags"}
+                    ]
+                },
+                {
+                    "name": "Prints",
+                    "children":[                
+                        {
+                            "name": "Clothing",
+                            "children":[
+                                {"name": "Dresses"},
+                                {"name": "Tops"},
+                                {"name": "Skirts"},
+                                {"name": "Shorts"},
+                                {"name": "Pants & Leggings"},
+                                {"name": "Outerwear"}
+                            ]
+                        },
+                        {"name": "Shoes"},
+                        {"name": "Accessories"},
+                        {"name": "Bags"}
+                    ]
+                },
+                {
+                    "name": "Sheer",
+                    "children":[                
+                        {
+                            "name": "Clothing",
+                            "children":[
+                                {"name": "Dresses"},
+                                {"name": "Tops"},
+                                {"name": "Skirts"},
+                                {"name": "Shorts"},
+                                {"name": "Pants & Leggings"},
+                                {"name": "Outerwear"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Streetwear",
+                    "children":[                
+                        {"name": "Clothing"},
+                        {"name": "Shoes"},
+                        {"name": "Accessories"},
+                        {"name": "Bags"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Campaigns",
+            "children": [
+                {
+                    "name": "Midnight Frost",
+                    "children":[                
+                        {"name": "Clothing"},
+                        {"name": "Shoes"},
+                        {"name": "Bags"},
+                        {"name": "Accessories"},
+                        {"name": "Beauty"}
+                    ]
+                },
+                {
+                    "name": "Urban Warrior",
+                    "children":[                
+                        {"name": "Clothing"},
+                        {"name": "Shoes"},
+                        {"name": "Bags"},
+                        {"name": "Accessories"},
+                        {"name": "Beauty"}
+                    ]
+                },
+                {
+                    "name": "Prom",
+                    "children":[                
+                        {"name": "Boho Luxe"},
+                        {"name": "Decadent Glam"},
+                        {"name": "Sweet Darling"}
+                    ]
+                },
+                {
+                    "name": "Winter Wear"
+                },
+                {
+                    "name": "Sunday Brunch",
+                    "children":[                
+                        {"name": "Clothing"},
+                        {"name": "Shoes"},
+                        {"name": "Bags"},
+                        {"name": "Accessories"},
+                        {"name": "Beauty"}
+                    ]
+                },
+                {
+                    "name": "Camping",
+                    "children":[                
+                        {"name": "Clothing"},
+                        {"name": "Shoes"},
+                        {"name": "Accessories"}
+                    ]
+                },
+                {
+                    "name": "Military",
+                    "children":[                
+                        {"name": "Clothing"},
+                        {"name": "Shoes"},
+                        {"name": "Bags"},
+                        {"name": "Accessories"}
+                    ]
+                },
+                {
+                    "name": "Hong Kong Labels",
+                    "children":[                
+                        {"name": "Clothing"},
+                        {"name": "Shoes"}
+                    ]
+                },
+                {
+                    "name": "Normcore",
+                    "children":[                
+                        {"name": "Clothing"},
+                        {"name": "Shoes"},
+                        {"name": "Bags"},
+                        {"name": "Accessories"},
+                        {"name": "Beauty"}
+                    ]
+                },
+                {
+                    "name": "Fall Trends",
+                    "children":[                
+                        {"name": "Embellished"},
+                        {"name": "Art Deco"},
+                        {"name": "Classic Staples"}
+                    ]
+                },
+                {
+                    "name": "Fall Basics",
+                    "children":[                
+                        {"name": "Clothing"},
+                        {"name": "Shoes"},
+                        {"name": "Bags"},
+                        {"name": "Accessories"},
+                        {"name": "Beauty"}
+                    ]
+                },
+                {
+                    "name": "Florals",
+                    "children":[                
+                        {"name": "Clothing"},
+                        {"name": "Shoes"},
+                        {"name": "Accessories"}
+                    ]
+                },
+                {
+                        "name": "Halloween"
+                },
+                {
+                        "name": "The Great Escape"
+                },
+                {
+                        "name": "Picks Of The Week"
+                },
+                {
+                        "name": "Clothed In Character"
+                },
+                {
+                        "name": "Illumi Nation"
+                },
+                {
+                        "name": "Be My Guest"
+                },
+                {
+                        "name": "Back to School"
+                },
+                {
+                        "name": "Yacht Life"
+                },
+                {
+                        "name": "Mixed Prints"
+                },
+                {
+                        "name": "Midsummer Nights"
+                },
+                {
+                        "name": "Get Set For Summer"
+                },
+                {
+                        "name": "Get Outside"
+                },
+                {
+                        "name": "Best of Sale"
+                },
+                {
+                        "name": "Down to Earth"
+                },
+                {
+                        "name": "Season Pop"
+                },
+                {
+                        "name": "California Girl"
+                },
+                {
+                        "name": "Plunge"
+                },
+                {
+                        "name": "Quirk It"
+                },
+                {
+                        "name": "Clearance Sale"
+                },
+                {
+                        "name": "Pointed Toe Shoes"
+                },
+                {
+                        "name": "To The Line"
+                },
+                {
+                        "name": "Max Performance"
+                },
+                {
+                        "name": "Travel Shop"
+                },
+                {
+                        "name": "d'Orsays"
+                },
+                {
+                        "name": "Accessory Trends"
+                },
+                {
+                        "name": "Tropical Jungle"
+                },
+                {
+                        "name": "Crisp Cuts"
+                },
+                {
+                        "name": "Sporty Chic"
+                },
+                {
+                        "name": "Sexy Back"
+                },
+                {
+                        "name": "Dive In"
+                },
+                {
+                        "name": "Spring Beauty Trends"
+                },
+                {
+                        "name": "Crop Tops"
+                },
+                {
+                        "name": "Shoe Trends"
+                },
+                {
+                        "name": "Metallics"
+                },
+                {
+                        "name": "Last Chance Shoes"
+                },
+                {
+                        "name": "All Over Neutrals"
+                },
+                {
+                        "name": "Pastels"
+                },
+                {
+                        "name": "Most-coveted Brands"
+                },
+                {
+                        "name": "Inner Circle Sale"
+                },
+                {
+                        "name": "Yoga Wear"
+                },
+                {
+                        "name": "Global Brands Sale"
+                }
+            ]
+        }        
     ]
 }
