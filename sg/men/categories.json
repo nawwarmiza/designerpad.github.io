@@ -2,6 +2,521 @@
     "name": "ZALORA",
     "children": [
         {
+            "name": "Pastel Parade",
+            "children": [
+                {
+                    "name": "Clothing"
+                },
+                {
+                    "name": "Shoes"
+                }
+            ]
+        },
+        {
+            "name": "70s",
+            "children": [
+                {
+                    "name": "Clothing"
+                },
+                {
+                    "name": "Shoes"
+                },
+                {
+                    "name": "Accessories"
+                }
+            ]
+        },
+        {
+            "name": "Spring Summer",
+            "children": [
+                {
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "T-Shirts"
+                        },
+                        {
+                            "name": "Shirts"
+                        },
+                        {
+                            "name": "Polos"
+                        },
+                        {
+                            "name": "Outerwear"
+                        },
+                        {
+                            "name": "Pants"
+                        },
+                        {
+                            "name": "Shorts"
+                        },
+                        {
+                            "name": "Jeans"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shoes"
+                },
+                {
+                    "name": "Accessories"
+                },
+                {
+                    "name": "Bags"
+                }
+            ]
+        },
+        {
+            "name": "Back to Basics",
+            "children": [
+                {
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "T-Shirts"
+                        },
+                        {
+                            "name": "Shirts"
+                        },
+                        {
+                            "name": "Polos"
+                        },
+                        {
+                            "name": "Outerwear"
+                        },
+                        {
+                            "name": "Pants"
+                        },
+                        {
+                            "name": "Shorts"
+                        },
+                        {
+                            "name": "Jeans"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shoes"
+                },
+                {
+                    "name": "Accessories"
+                },
+                {
+                    "name": "Bags"
+                }
+            ]
+        },
+        {
+            "name": "Monochrome",
+            "children": [
+                {
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "Shirts"
+                        },
+                        {
+                            "name": "Polos"
+                        },
+                        {
+                            "name": "Outerwear"
+                        },
+                        {
+                            "name": "Pants"
+                        },
+                        {
+                            "name": "Shorts"
+                        },
+                        {
+                            "name": "Jeans"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shoes"
+                },
+                {
+                    "name": "Accessories"
+                },
+                {
+                    "name": "Bags"
+                }
+            ]
+        },
+        {
+            "name": "Denim",
+            "children": [
+                {
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "Shirts"
+                        },
+                        {
+                            "name": "Polos"
+                        },
+                        {
+                            "name": "Outerwear"
+                        },
+                        {
+                            "name": "Pants"
+                        },
+                        {
+                            "name": "Shorts"
+                        },
+                        {
+                            "name": "Jeans"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shoes"
+                },
+                {
+                    "name": "Accessories"
+                },
+                {
+                    "name": "Bags"
+                }
+            ]
+        },
+        {
+            "name": "Trends",
+            "children": [
+                {
+                    "name": "Office Wear",
+                    "children": [
+                        {
+                            "name": "Clothing",
+                            "children": [
+                                {
+                                    "name": "Shirts"
+                                },
+                                {
+                                    "name": "Polo Shirts"
+                                },
+                                {
+                                    "name": "T-Shirts"
+                                },
+                                {
+                                    "name": "Pants"
+                                },
+                                {
+                                    "name": "Outerwear"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bags"
+                        },
+                        {
+                            "name": "Accessories",
+                            "children": [
+                                {
+                                    "name": "Belts"
+                                },
+                                {
+                                    "name": "Watches"
+                                },
+                                {
+                                    "name": "Wallets"
+                                },
+                                {
+                                    "name": "Ties & Formal"
+                                }     
+                            ]
+                        },
+                        {
+                            "name": "Shoes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Business Formal",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+
+                {
+                    "name": "Business Casual",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+                {
+                    "name": "Streetwear",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        },
+                        {
+                            "name": "Bags"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Campaigns",
+            "children": [
+                {
+                    "name": "Bold Prints",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Bags"
+                        },
+                        {
+                            "name": "Accessories"
+                        },
+                        {
+                            "name": "Shoes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dapper Gentlemen",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Bags"
+                        },
+                        {
+                            "name": "Accessories"
+                        },
+                        {
+                            "name": "Shoes"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Great Outdoors",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Bags"
+                        },
+                        {
+                            "name": "Accessories"
+                        },
+                        {
+                            "name": "Shoes"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Great Escape",
+                    "children": [
+                        {
+                            "name": "All About Town",
+                            "children": [
+                                {
+                                    "name": "Clothing"
+                                },
+                                {
+                                    "name": "Bags"
+                                },
+                                {
+                                    "name": "Accessories"
+                                },
+                                {
+                                    "name": "Shoes"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Beach Perfect",
+                            "children": [
+                                {
+                                    "name": "Clothing"
+                                },
+                                {
+                                    "name": "Bags"
+                                },
+                                {
+                                    "name": "Accessories"
+                                },
+                                {
+                                    "name": "Shoes"
+                                }
+                            ]
+                            
+                        },
+                        {
+                            "name": "Serious Sight Seeing",
+                            "children": [
+                                {
+                                    "name": "Clothing"
+                                },
+                                {
+                                    "name": "Bags"
+                                },
+                                {
+                                    "name": "Accessories"
+                                },
+                                {
+                                    "name": "Shoes"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Be My Guest",
+                    "children": [
+                        {
+                            "name": "Dapper Dandy"
+                        },
+                        {
+                            "name": "Daytime Prep"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fall Basics",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+                {
+                    "name": "Red and White",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sporty Chic",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        },
+                        {
+                            "name": "Bags"
+                        }
+                    ]
+                },
+                {
+                    "name": "Get Set For Summer",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        },
+                        {
+                            "name": "Bags"
+                        }
+                    ]
+                },
+                {
+                    "name": "Style Shop",
+                    "children": [
+                        {
+                            "name": "Casual"
+                        },
+                        {
+                            "name": "Street"
+                        },
+                        {
+                            "name": "Smart"
+                        },
+                        {
+                            "name": "Formal"
+                        }
+                    ]
+                },
+                {
+                    "name": "Travel Shop",
+                    "children": [
+                        {
+                            "name": "Festival"
+                        },
+                        {
+                            "name": "Beach"
+                        },
+                        {
+                            "name": "Night Out"
+                        },
+                        {
+                            "name": "Formal"
+                        }
+                    ]
+                },
+                {
+                    "name": "All Denim",
+                    "children": [
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Shirts"
+                        },
+                        {
+                            "name": "Jeans"
+                        },
+                        {
+                            "name": "Shorts"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Shoes",
             "children": [
                 {
