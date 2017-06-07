@@ -284,19 +284,19 @@
             "name": "Jovian Mandagie",
             "children": [
                 {
-                    "name": "|-- Jovian Mandagie for ZALORA"
+                    "name": "Jovian Mandagie for ZALORA"
                 },
                 {
-                    "name": "|-- Lisa Surihani for Jovian"
+                    "name": "Lisa Surihani for Jovian"
                 },
                 {
-                    "name": "|-- Falling Feathers"
+                    "name": "Falling Feathers"
                 },
                 {
-                    "name": "|-- Jovian Femme"
+                    "name": "Jovian Femme"
                 },
                 {
-                    "name": "|-- Jovian by Jovian Mandagie"
+                    "name": "Jovian by Jovian Mandagie"
                 }
             ]
         },
@@ -304,16 +304,16 @@
             "name": "BeCharmed made with Swarovski Elements",
             "children": [
                 {
-                    "name": "|-- Birthstones"
+                    "name": "Birthstones"
                 },
                 {
-                    "name": "|-- Necklaces & Bracelets"
+                    "name": "Necklaces & Bracelets"
                 },
                 {
-                    "name": "|-- Charms"
+                    "name": "Charms"
                 },
                 {
-                    "name": "|-- Chains"
+                    "name": "Chains"
                 }
             ]
         },
@@ -321,31 +321,31 @@
             "name": "SK-II",
             "children": [
                 {
-                    "name": "|- Cleanser"
+                    "name": "Cleanser"
                 },
                 {
-                    "name": "|- Toner"
+                    "name": "Toner"
                 },
                 {
-                    "name": "|- Facial Treatment Essence"
+                    "name": "Facial Treatment Essence"
                 },
                 {
-                    "name": "|- Beauty Essence"
+                    "name": "Beauty Essence"
                 },
                 {
-                    "name": "|- Moisturizer"
+                    "name": "Moisturizer"
                 },
                 {
-                    "name": "|- UV Protection"
+                    "name": "UV Protection"
                 },
                 {
-                    "name": "|- Eye Care"
+                    "name": "Eye Care"
                 },
                 {
-                    "name": "|- Mask"
+                    "name": "Mask"
                 },
                 {
-                    "name": "|- Trial Kit & Sets"
+                    "name": "Trial Kit & Sets"
                 }
             ]
         },
@@ -353,7 +353,7 @@
             "name": "River Island",
             "children": [
                 {
-                    "name": "|-- Clothing",
+                    "name": "Clothing",
                     "children": [
                         {
                             "name": "Dresses"
@@ -379,13 +379,13 @@
                     ]
                 },
                 {
-                    "name": "|-- Shoes"
+                    "name": "Shoes"
                 },
                 {
-                    "name": "|-- Accessories"
+                    "name": "Accessories"
                 },
                 {
-                    "name": "|-- Bags"
+                    "name": "Bags"
                 }
             ]
         },
@@ -393,7 +393,7 @@
             "name": "Ray-Ban",
             "children": [
                 {
-                    "name": "|-- Ranges",
+                    "name": "Ranges",
                     "children": [
                         {
                             "name": "Icons"
@@ -413,34 +413,34 @@
                     ]
                 },
                 {
-                    "name": "|-- Aviator"
+                    "name": "Aviator"
                 },
                 {
-                    "name": "|-- Wayfarer"
+                    "name": "Wayfarer"
                 },
                 {
-                    "name": "|-- Clubmaster"
+                    "name": "Clubmaster"
                 },
                 {
-                    "name": "|-- Justin"
+                    "name": "Justin"
                 },
                 {
-                    "name": "|-- Erika"
+                    "name": "Erika"
                 },
                 {
-                    "name": "|-- Other Models"
+                    "name": "Other Models"
                 },
                 {
-                    "name": "|-- Polarized"
+                    "name": "Polarized"
                 },
                 {
-                    "name": "|-- Junior"
+                    "name": "Junior"
                 },
                 {
-                    "name": "|-- Best Sellers"
+                    "name": "Best Sellers"
                 },
                 {
-                    "name": "|-- New Styles"
+                    "name": "New Styles"
                 }
             ]
         }
