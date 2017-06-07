@@ -1,0 +1,448 @@
+{
+    "name": "ZALORA",
+    "children": [
+        {
+            "name": "gears3"
+        },
+        {
+            "name": "Rubi Bundle Deals"
+        },
+        {
+            "name": "G2000 Man Popup Event"
+        },
+        {
+            "name": "Nike Pegasus 33"
+        },
+        {
+            "name": "Vogue Eyewear",
+            "children": [
+                {
+                    "name": "3D Braid"
+                },
+                {
+                    "name": "Drops"
+                },
+                {
+                    "name": "Light & Shine"
+                }
+            ]
+        },
+        {
+            "name": "Topshop Denim",
+            "children": [
+                {
+                    "name": "Joni"
+                },
+                {
+                    "name": "Jamie"
+                },
+                {
+                    "name": "Leigh"
+                },
+                {
+                    "name": "Mom"
+                },
+                {
+                    "name": "Lucas"
+                },
+                {
+                    "name": "Hayden"
+                }
+            ]
+        },
+        {
+            "name": "City Chain",
+            "children": [
+                {
+                    "name": "Digital"
+                },
+                {
+                    "name": "Analogue"
+                },
+                {
+                    "name": "Sports"
+                },
+                {
+                    "name": "Casual Watches"
+                },
+                {
+                    "name": "Chronograph Watches"
+                },
+                {
+                    "name": "Dress Watches"
+                }
+            ]
+        },
+        {
+            "name": "Nike Zoom Fit Agility",
+            "children": [
+                {
+                    "name": "Shoes"
+                },
+                {
+                    "name": "Sports"
+                }
+            ]
+        },
+        {
+            "name": "Melinda Looi"
+        },
+        {
+            "name": "Dorothy Perkins",
+            "children": [
+                {
+                    "name": "Style Heroes Sale"
+                },
+                {
+                    "name": "Winter Florals"
+                },
+                {
+                    "name": "Denim Dairies"
+                },
+                {
+                    "name": "Textured Tops"
+                }
+            ]
+        },
+        {
+            "name": "Sloggi",
+            "children": [
+                {
+                    "name": "Bra",
+                    "children": [
+                        {
+                            "name": "By Function",
+                            "children": [
+                                {
+                                    "name": "Basic Comfort"
+                                },
+                                {
+                                    "name": "Invisible"
+                                },
+                                {
+                                    "name": "Printed"
+                                },
+                                {
+                                    "name": "Lace"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "By Cup",
+                            "children": [
+                                {
+                                    "name": "1/2 Cup"
+                                },
+                                {
+                                    "name": "3/4 Cup"
+                                },
+                                {
+                                    "name": "Deep V"
+                                },
+                                {
+                                    "name": "Non-Wired"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Panties",
+                    "children": [
+                        {
+                            "name": "By Function",
+                            "children": [
+                                {
+                                    "name": "Cotton"
+                                },
+                                {
+                                    "name": "Seamless"
+                                },
+                                {
+                                    "name": "Printed"
+                                },
+                                {
+                                    "name": "Lace"
+                                },
+                                {
+                                    "name": "Basic"
+                                },
+                                {
+                                    "name": "Value Packs"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "By Style",
+                            "children": [
+                                {
+                                    "name": "Tanga"
+                                },
+                                {
+                                    "name": "Mini"
+                                },
+                                {
+                                    "name": "Midi"
+                                },
+                                {
+                                    "name": "Hipster"
+                                },
+                                {
+                                    "name": "Maxi"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sportswear",
+                    "children": [
+                        {
+                            "name": "By Function"
+                        },
+                        {
+                            "name": "By Type"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Triumph",
+            "children": [
+                {
+                    "name": "Bra",
+                    "children": [
+                        {
+                            "name": "By Function",
+                            "children": [
+                                {
+                                    "name": "Push-Up"
+                                },
+                                {
+                                    "name": "Invisible"
+                                },
+                                {
+                                    "name": "Shape"
+                                },
+                                {
+                                    "name": "Support"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "By Cup",
+                            "children": [
+                                {
+                                    "name": "1/2 Cup"
+                                },
+                                {
+                                    "name": "3/4 Cup"
+                                },
+                                {
+                                    "name": "Deep V"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Panties",
+                    "children": [
+                        {
+                            "name": "Midi"
+                        },
+                        {
+                            "name": "Maxi"
+                        },
+                        {
+                            "name": "String"
+                        },
+                        {
+                            "name": "Mini"
+                        },
+                        {
+                            "name": "Tanga"
+                        },
+                        {
+                            "name": "Brazilian"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shapewear"
+                },
+                {
+                    "name": "Swimwear"
+                },
+                {
+                    "name": "Sleepwear"
+                }
+            ]
+        },   
+        {
+            "name": "Jovian Mandagie",
+            "children": [
+                {
+                    "name": "|-- Jovian Mandagie for ZALORA"
+                },
+                {
+                    "name": "|-- Lisa Surihani for Jovian"
+                },
+                {
+                    "name": "|-- Falling Feathers"
+                },
+                {
+                    "name": "|-- Jovian Femme"
+                },
+                {
+                    "name": "|-- Jovian by Jovian Mandagie"
+                }
+            ]
+        },
+        {
+            "name": "BeCharmed made with Swarovski Elements",
+            "children": [
+                {
+                    "name": "|-- Birthstones"
+                },
+                {
+                    "name": "|-- Necklaces & Bracelets"
+                },
+                {
+                    "name": "|-- Charms"
+                },
+                {
+                    "name": "|-- Chains"
+                }
+            ]
+        },
+        {
+            "name": "SK-II",
+            "children": [
+                {
+                    "name": "|- Cleanser"
+                },
+                {
+                    "name": "|- Toner"
+                },
+                {
+                    "name": "|- Facial Treatment Essence"
+                },
+                {
+                    "name": "|- Beauty Essence"
+                },
+                {
+                    "name": "|- Moisturizer"
+                },
+                {
+                    "name": "|- UV Protection"
+                },
+                {
+                    "name": "|- Eye Care"
+                },
+                {
+                    "name": "|- Mask"
+                },
+                {
+                    "name": "|- Trial Kit & Sets"
+                }
+            ]
+        },
+        {
+            "name": "River Island",
+            "children": [
+                {
+                    "name": "|-- Clothing",
+                    "children": [
+                        {
+                            "name": "Dresses"
+                        },
+                        {
+                            "name": "Tops"
+                        },
+                        {
+                            "name": "Skirts"
+                        },
+                        {
+                            "name": "Pants"
+                        },
+                        {
+                            "name": "Jeans"
+                        },
+                        {
+                            "name": "Swimwear"
+                        },
+                        {
+                            "name": "Knitwear"
+                        }
+                    ]
+                },
+                {
+                    "name": "|-- Shoes"
+                },
+                {
+                    "name": "|-- Accessories"
+                },
+                {
+                    "name": "|-- Bags"
+                }
+            ]
+        },
+        {
+            "name": "Ray-Ban",
+            "children": [
+                {
+                    "name": "|-- Ranges",
+                    "children": [
+                        {
+                            "name": "Icons"
+                        },
+                        {
+                            "name": "Highstreet"
+                        },
+                        {
+                            "name": "Active"
+                        },
+                        {
+                            "name": "Tech"
+                        },
+                        {
+                            "name": "Junior"
+                        }
+                    ]
+                },
+                {
+                    "name": "|-- Aviator"
+                },
+                {
+                    "name": "|-- Wayfarer"
+                },
+                {
+                    "name": "|-- Clubmaster"
+                },
+                {
+                    "name": "|-- Justin"
+                },
+                {
+                    "name": "|-- Erika"
+                },
+                {
+                    "name": "|-- Other Models"
+                },
+                {
+                    "name": "|-- Polarized"
+                },
+                {
+                    "name": "|-- Junior"
+                },
+                {
+                    "name": "|-- Best Sellers"
+                },
+                {
+                    "name": "|-- New Styles"
+                }
+            ]
+        }
+    ]    
+}
