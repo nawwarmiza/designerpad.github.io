@@ -1,0 +1,47 @@
+<link rel="stylesheet" href="//static.zalora.com/css/global.css">
+<style>
+    .half {
+        width: 50%;
+    }
+    .breathing-room {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .thick {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+</style>
+<div id="createPreview"></div>
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+    function fetchDataFromExcel() {
+        $.getJSON("https://script.google.com/macros/s/AKfycbxOLElujQcy1-ZUer1KgEvK16gkTLUqYftApjNCM_IRTL3HSuDk/exec?id=16iB_DCkiZfLivxXvSmXeZ5rNkS1mBH0zviDaxJTMV1c&sheet=TWJSONSerialize", function (data) {
+            var html = data.SGJSONSerialize[0].Mobile;
+            
+            //construct cdn url based on country
+            var cdnURL = "https://static-sg.zacdn.com";
+            
+            //render the html
+            $("#createPreview").html(html);
+
+            //update img src links
+            $("img").each(function () {
+                var imageURL = $(this).attr("src");
+                imageURL = imageURL.replace("[MEDIA_BASE_URL]", cdnURL);
+                $(this).attr("src", imageURL);
+            });
+
+            //hacks to render preview
+            $("body").css("margin", "0 auto");
+            $("body").css("width", "414px");
+            $("iframe").css("height", "212px");
+        });
+    }
+
+    $(function () {
+        fetchDataFromExcel();
+    });
+</script>
+
