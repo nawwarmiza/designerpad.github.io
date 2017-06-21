@@ -1,0 +1,35 @@
+<link rel="stylesheet" href="//static.zalora.com/css/global.css">
+<div id="createPreview"></div>
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+    function fetchDataFromExcel() {
+        $.getJSON("https://script.google.com/macros/s/AKfycbxOLElujQcy1-ZUer1KgEvK16gkTLUqYftApjNCM_IRTL3HSuDk/exec?id=15SKoMVb3LE2b0ibmoHK64CbiZGl7tXa0x_EhPbiSwzU&sheet=hkzhJSON", function (data) {
+            var html = data.hkzhJSON[0].code;
+
+            //construct cdn url based on country
+            var cdnURL = "https://static-hk.zacdn.com";
+
+            //render the html
+            $("#createPreview").html(html);
+
+            //update img src links
+            $("img").each(function () {
+                var imageURL = $(this).attr("src");
+                imageURL = imageURL.replace("[MEDIA_BASE_URL]", cdnURL);
+                $(this).attr("src", imageURL);
+            });
+
+            //preview hacks for perfect previews
+            $("body").css("margin", "0 auto");
+            $("body").css("width", "374px");
+            $("body").css("height", "500px");
+            $("body").css("margin-top", "100px");
+
+        });
+    }
+
+    $(function () {
+        fetchDataFromExcel();
+    });
+</script>
