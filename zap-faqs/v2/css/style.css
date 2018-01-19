@@ -430,7 +430,7 @@ label{
 
 #our-works{
     padding-top: 130px;
-    padding-bottom: 120px;
+    /* padding-bottom: 120px; */
 }
 
 .portfolio-wrapper ul.filter{
@@ -634,7 +634,7 @@ label{
 
 #our-team{
     padding-top: 130px;
-    padding-bottom: 120px;
+    /* padding-bottom: 120px; */
 }
 
 .team-member{
