@@ -374,12 +374,12 @@ label{
 
 #services{
     background-color: #f5f5f5;
-    padding-top: 130px;
+    padding-top: 60px;
     padding-bottom: 120px;
 }
 
 .section-title{
-    margin-bottom: 50px;
+    margin-bottom: 45px;
 }
 
 .section-title h1{
@@ -436,8 +436,8 @@ label{
 .portfolio-wrapper ul.filter{
     list-style: none;
     padding: 0;
-    margin-bottom: 35px;
-    margin-top: 28px;
+    /* margin-bottom: 35px; */
+    /* margin-top: 28px; */
     overflow: hidden;
 }
 
