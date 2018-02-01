@@ -282,7 +282,9 @@ label {
     margin-right: 10px;
 }
 
-.usp p {}
+.usp p {
+    color: #808080;
+}
 
 
 
@@ -378,6 +380,7 @@ label {
 
 #fun-facts .fun-fact p {
     font-size: 16px;
+    color: #808080
 }
 
 /* 13. CONTACT */
