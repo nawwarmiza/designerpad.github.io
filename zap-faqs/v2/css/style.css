@@ -83,18 +83,36 @@ p {
     line-height: 1.5;
 }
 
-h1, h2, h3, h4, h5, h6{
-    font-family: 'Raleway', sans-serif;
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Lato", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
 }
 
-input, textarea{
+input, textarea {
     outline: none;
 }
 
-label{
+label {
     font-weight: 300;
+}
+
+.btn-send {
+    background-color: #383838;
+    border-radius: 0;
+    border: 0;
+    color: #fff;
+    padding: 8px 14px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-send:hover {
+    background-color: #000;
+    color: #fff;
 }
 
 #pre-status,
