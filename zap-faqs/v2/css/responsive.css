@@ -6,7 +6,7 @@
 /* md */
 @media (min-width: 992px) and (max-width: 1199px) {
 
-    #home-carousel  .item {
+    #hero  .item {
         height: 500px;
     }
 
@@ -26,7 +26,7 @@
         letter-spacing:2px;
         margin-bottom:20px;
     }
-    #our-team, #pricing, #our-works, #services, #contact{
+    #our-services, #pricing, #our-works, #unique-selling-points, #contact{
         padding-top: 110px;
         padding-bottom: 100px;
     }
@@ -41,7 +41,7 @@
         margin-right: 13px;
     }
 
-    #home-carousel  .item {
+    #hero  .item {
         height: 500px;
     }
 
@@ -72,7 +72,7 @@
         display: none !important;
     }
 
-    #our-team, #pricing, #our-works, #services, #contact{
+    #our-services, #pricing, #our-works, #unique-selling-points, #contact{
         padding-top: 100px;
         padding-bottom: 100px;
     }
@@ -109,7 +109,7 @@
         margin-top: 18px;
     }
 
-    #home-carousel  .item {
+    #hero  .item {
         height: 300px;
     }
 
@@ -174,12 +174,12 @@
         padding-bottom: 10%;
     }
 
-    #our-team, #pricing, #our-works, #services{
+    #our-services, #pricing, #our-works, #unique-selling-points{
         padding-top: 100px;
         padding-bottom: 100px;
     }
 
-    .st-service {
+    .usp {
         margin-top: 50px;
     }
 

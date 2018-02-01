@@ -3,7 +3,6 @@
 'use strict';
 
 
-
     // ----------------------------------------------
     // Preloader
     // ----------------------------------------------
@@ -15,55 +14,12 @@
 	}());
 
 
-
-    // ---------------------------------------------- 
-    //  magnific-popup
-    // ----------------------------------------------
-	(function () {
-
-		$('.portfolio-items').magnificPopup({ 
-			delegate: 'a',
-			type: 'image',
-			// other options
-			closeOnContentClick: false,
-			closeBtnInside: false,
-			mainClass: 'mfp-with-zoom mfp-img-mobile',
-
-			gallery: {
-				enabled: false
-			},
-			zoom: {
-				enabled: true,
-				duration: 300, // don't foget to change the duration also in CSS
-				opener: function(element) {
-					return element.find('i');
-				}
-			}
-
-		});
-
-	}()); 
-
-
-
-    // ---------------------------------------------- 
-    // Fun facts
-    // ---------------------------------------------- 
-	(function () {
-		$('.st-counter').counterUp({
-		    delay: 10,
-		    time: 1500
-		});
-	}()); 
-
-
-
     // ---------------------------------------------- 
     //  Isotope Filter 
     // ---------------------------------------------- 
 	(function () {
 		var winDow = $(window);
-		var $container=$('.portfolio-items');
+		var $container=$('.service-items');
 		var $filter=$('.filter');
 
 		try{
@@ -128,20 +84,6 @@
 		});
 	}()); 
 
-
-	// -------------------------------------------------------------
-    // masonry
-    // -------------------------------------------------------------
-
-    (function () {
-		var $container = $('.portfolio-items');
-		// initialize
-		$container.masonry({
-		  itemSelector: '.work-grid'
-		});
-    }());
-
-
   	// -------------------------------------------------------------
     // Animated scrolling / Scroll Up
     // -------------------------------------------------------------
@@ -155,22 +97,6 @@
             e.preventDefault();
         });
     }());
-
-
-    // ----------------------------------------------
-    // Owl Carousel
-    // ----------------------------------------------
-	(function () {
-
-		$(".st-testimonials").owlCarousel({
-		singleItem:true,
-		lazyLoad : true,
-		pagination:false,
-		navigation : false,
-		autoPlay: true,
-		});
-
-	}());
 
 
     // -------------------------------------------------------------
@@ -201,18 +127,5 @@
 		parallaxInit();
 	}());
 
-	
-
-    // ----------------------------------------------
-    // fitvids js
-    // ----------------------------------------------
-    (function () {
-
-        $(".post-video").fitVids();
-
-    }()); 
-
-
-	
 
 });
