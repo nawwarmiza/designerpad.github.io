@@ -1,0 +1,1000 @@
+{
+    "name": "ZALORA",
+    "children": [
+        {
+            "name": "Trends",
+            "children": [
+                {
+                    "name": "Korean Fashion",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Accessories"
+                        },
+                        {
+                            "name": "Bags"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Grooming"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Shoes",
+            "children": [
+                {
+                    "name": "Sneakers"
+                },
+                {
+                    "name": "Loafers & Boat Shoes"
+                },
+                {
+                    "name": "Slip-Ons"
+                },
+                {
+                    "name": "Formal"
+                },
+                {
+                    "name": "Boots"
+                },
+                {
+                    "name": "Sandals & Flip Flops"
+                },
+                {
+                    "name": "Sport Shoes"
+                },
+                {
+                    "name": "Flip Flops"
+                },
+                {
+                    "name": "Shoes Accessories"
+                }
+            ]
+        },
+        {
+            "name": "Accessories",
+            "children": [
+                {
+                    "name": "Watches",
+                    "children": [
+                        {
+                            "name": "Smart Watches"
+                        },
+                        {
+                            "name": "Analogue"
+                        },
+                        {
+                            "name": "Digital"
+                        },
+                        {
+                            "name": "Sports"
+                        },
+                        {
+                            "name": "Fashion Watches"
+                        },
+                        {
+                            "name": "Casual Watches"
+                        },
+                        {
+                            "name": "Chronograph Watches"
+                        },
+                        {
+                            "name": "Dress Watches"
+                        },
+                        {
+                            "name": "Luxury Watches"
+                        },
+                        {
+                            "name": "Shop by Strap",
+                            "children": [
+                                {
+                                    "name": "Metal Strap Watches"
+                                },
+                                {
+                                    "name": "Leatehr Strap Watches"
+                                },
+                                {
+                                    "name": "Other Strap Watches"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wallets",
+                    "children": [
+                        {
+                            "name": "Billfolds & Money Clips"
+                        },
+                        {
+                            "name": "Card Holders"
+                        },
+                        {
+                            "name": "Leather"
+                        },
+                        {
+                            "name": "Non-Leather"
+                        }
+                    ]
+                },
+                {
+                    "name": "Belts",
+                    "children": [
+                        {
+                            "name": "Leather"
+                        },
+                        {
+                            "name": "Non-Leather Belts"
+                        },
+                        {
+                            "name": "Canvas"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eyewear",
+                    "children": [
+                        {
+                            "name": "Sunglasses",
+                            "children": [
+                                {
+                                    "name": "Round"
+                                },
+                                {
+                                    "name": "Squared"
+                                },
+                                {
+                                    "name": "Aviator"
+                                },
+                                {
+                                    "name": "Sports"
+                                },
+                                {
+                                    "name": "Polarized"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Glasses"
+                        }
+                    ]
+                },
+                {
+                    "name": "Technology",
+                    "children": [
+                        {
+                            "name": "Phone Cases",
+                            "children": [
+                                {
+                                    "name": "iPod Cases"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Laptop Bags"
+                        },
+                        {
+                            "name": "Headphones",
+                            "children": [
+                                {
+                                    "name": "Wireless Headphones"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tablet Cases"
+                        },
+                        {
+                            "name": "Laptop Cases"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ties & Accessories",
+                    "children": [
+                        {
+                            "name": "Ties"
+                        },
+                        {
+                            "name": "Bow Ties"
+                        },
+                        {
+                            "name": "Suspenders"
+                        },
+                        {
+                            "name": "Cufflinks & Tie Clips"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jewellery",
+                    "children": [
+                        {
+                            "name": "Necklaces"
+                        },
+                        {
+                            "name": "Bracelets"
+                        },
+                        {
+                            "name": "Rings"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hats & Caps",
+                    "children": [
+                        {
+                            "name": "Caps"
+                        },
+                        {
+                            "name": "Beanies"
+                        },
+                        {
+                            "name": "Hats"
+                        }
+                    ]
+                },
+                {
+                    "name": "Scarves & Shawls"
+                },
+                {
+                    "name": "Gloves",
+                    "children": [
+                        {
+                            "name": "Regular"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Clothing",
+            "children": [
+                {
+                    "name": "T-Shirts",
+                    "children": [
+                        {
+                            "name": "Graphic T-Shirts"
+                        },
+                        {
+                            "name": "Striped T-Shirts"
+                        },
+                        {
+                            "name": "Plain T-Shirts"
+                        },
+                        {
+                            "name": "Singlets"
+                        },
+                        {
+                            "name": "Long Sleeve T-Shirts"
+                        },
+                        {
+                            "name": "Short Sleeve T-Shirts",
+                            "children": [
+                                {
+                                    "name": "Plain T-Shirts"
+                                },
+                                {
+                                    "name": "Graphic T-Shirts"
+                                },
+                                {
+                                    "name": "Striped T-Shirts"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shirts",
+                    "children": [
+                        {
+                            "name": "Long Sleeve Shirts",
+                            "children": [
+                                {
+                                    "name": "Printed"
+                                },
+                                {
+                                    "name": "Plain"
+                                },
+                                {
+                                    "name": "Formal"
+                                },
+                                {
+                                    "name": "Checkered"
+                                },
+                                {
+                                    "name": "Denim"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Short Sleeve Shirts",
+                            "children": [
+                                {
+                                    "name": "Printed"
+                                },
+                                {
+                                    "name": "Plain"
+                                },
+                                {
+                                    "name": "Formal"
+                                },
+                                {
+                                    "name": "Checkered"
+                                },
+                                {
+                                    "name": "Denim"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Plain Shirts"
+                        },
+                        {
+                            "name": "Printed Shirts"
+                        },
+                        {
+                            "name": "Denim Shirts"
+                        },
+                        {
+                            "name": "Formal Shirts"
+                        },
+                        {
+                            "name": "Checkered Shirts"
+                        }
+                    ]
+                },
+                {
+                    "name": "Outerwear",
+                    "children": [
+                        {
+                            "name": "Knitwear & Cardigans",
+                            "children": [
+                                {
+                                    "name": "Knitwear"
+                                },
+                                {
+                                    "name": "Cardigans"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hoodies & Sweatshirts",
+                            "children": [
+                                {
+                                    "name": "Hoodies"
+                                },
+                                {
+                                    "name": "Sweatshirts"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blazers & Suits",
+                            "children": [
+                                {
+                                    "name": "Blazers"
+                                },
+                                {
+                                    "name": "Suit Jacket"
+                                },
+                                {
+                                    "name": "Vest"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Jackets & Coats",
+                            "children": [
+                                {
+                                    "name": "Winter Jackets"
+                                },
+                                {
+                                    "name": "Light Jackets"
+                                },
+                                {
+                                    "name": "Denim Jackets"
+                                },
+                                {
+                                    "name": "Leather Jackets"
+                                },
+                                {
+                                    "name": "Coats"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Pants",
+                    "children": [
+                        {
+                            "name": "Regular Fit"
+                        },
+                        {
+                            "name": "Slim Fit"
+                        },
+                        {
+                            "name": "Skinny Fit"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shorts",
+                    "children": [
+                        {
+                            "name": "Chinos"
+                        },
+                        {
+                            "name": "Denim"
+                        },
+                        {
+                            "name": "Sport"
+                        },
+                        {
+                            "name": "Boat Shorts"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jeans",
+                    "children": [
+                        {
+                            "name": "Regular Fit"
+                        },
+                        {
+                            "name": "Slim Fit"
+                        },
+                        {
+                            "name": "Skinny Fit"
+                        }
+                    ]
+                },
+                {
+                    "name": "Beachwear"
+                },
+                {
+                    "name": "Underwear & Loungewear",
+                    "children": [
+                        {
+                            "name": "Loungewear"
+                        },
+                        {
+                            "name": "Underwear",
+                            "children": [
+                                {
+                                    "name": "Boxers"
+                                },
+                                {
+                                    "name": "Briefs"
+                                },
+                                {
+                                    "name": "Multipacks"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ethnic Wear"
+                },
+                {
+                    "name": "Socks"
+                }
+            ]
+        },
+        {
+            "name": "Premium",
+            "children": [
+                {
+                    "name": "Clothing"
+                },
+                {
+                    "name": "Shoes"
+                },
+                {
+                    "name": "Accessories"
+                },
+                {
+                    "name": "Bags"
+                },
+                {
+                    "name": "Sports"
+                },
+                {
+                    "name": "Grooming"
+                },
+                {
+                    "name": "Watches"
+                }
+            ]
+        },
+        {
+            "name": "Bags",
+            "children": [
+                {
+                    "name": "Backpacks"
+                },
+                {
+                    "name": "Messenger bags"
+                },
+                {
+                    "name": "Totes"
+                },
+                {
+                    "name": "Travel bags",
+                    "children": [
+                        {
+                            "name": "Wheeled Luggage"
+                        },
+                        {
+                            "name": "Travel Backpacks"
+                        },
+                        {
+                            "name": "Travel Accessories"
+                        },
+                        {
+                            "name": "Hand Luggage"
+                        },
+                        {
+                            "name": "Soft Case Luggage"
+                        },
+                        {
+                            "name": "Hard Case Luggage"
+                        }
+                    ]
+                },
+                {
+                    "name": "Laptop Bags"
+                },
+                {
+                    "name": "Holdalls"
+                },
+                {
+                    "name": "Duffle Bags"
+                },
+                {
+                    "name": "Satchel"
+                },
+                {
+                    "name": "Briefcases"
+                }
+            ]
+        },
+        {
+            "name": "Grooming",
+            "children": [
+                {
+                    "name": "Shaving",
+                    "children": [
+                        {
+                            "name": "Post-Shaving"
+                        },
+                        {
+                            "name": "Shaving Tools"
+                        },
+                        {
+                            "name": "Pre-Shaving"
+                        }
+                    ]
+                },
+                {
+                    "name": "Body",
+                    "children": [
+                        {
+                            "name": "Bath & Shower"
+                        },
+                        {
+                            "name": "Body Lotion & Treatments"
+                        }
+                    ]
+                },
+                {
+                    "name": "Skin Care",
+                    "children": [
+                        {
+                            "name": "Eye cream"
+                        },
+                        {
+                            "name": "Moisturizer and Treatments"
+                        },
+                        {
+                            "name": "Cleansers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hair Care",
+                    "children": [
+                        {
+                            "name": "Shampoo & Conditioner"
+                        },
+                        {
+                            "name": "Styling"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fragrance"
+                },
+                {
+                    "name": "Gift Sets"
+                }
+            ]
+        },
+        {
+            "name": "Sports",
+            "children": [
+                {
+                    "name": "Shop by Sport Activity",
+                    "children": [
+                        {
+                            "name": "Training",
+                            "children": [
+                                {
+                                    "name": "Clothing",
+                                    "children": [
+                                        {
+                                            "name": "Tops"
+                                        },
+                                        {
+                                            "name": "Bottoms"
+                                        },
+                                        {
+                                            "name": "Compression"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Bags & Backpacks"
+                                },
+                                {
+                                    "name": "Footwear"
+                                },
+                                {
+                                    "name": "Accessories"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Swim & Beachwear",
+                            "children": [
+                                {
+                                    "name": "Bags"
+                                },
+                                {
+                                    "name": "Sandals & Flip-Flops"
+                                },
+                                {
+                                    "name": "Accessories"
+                                },
+                                {
+                                    "name": "Rashguards"
+                                },
+                                {
+                                    "name": "Boardshorts & Swimshorts"
+                                },
+                                {
+                                    "name": "Tops"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Football",
+                            "children": [
+                                {
+                                    "name": "Clothing"
+                                },
+                                {
+                                    "name": "Accessories & Equipments"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Outdoors",
+                            "children": [
+                                {
+                                    "name": "Clothing",
+                                    "children": [
+                                        {
+                                            "name": "Tops"
+                                        },
+                                        {
+                                            "name": "Bottoms"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Bags",
+                                    "children": [
+                                        {
+                                            "name": "Backpacks"
+                                        },
+                                        {
+                                            "name": "Others"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Accessories"
+                                },
+                                {
+                                    "name": "Shoes"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lifestyle",
+                            "children": [
+                                {
+                                    "name": "Sneakers"
+                                },
+                                {
+                                    "name": "Clothing",
+                                    "children": [
+                                        {
+                                            "name": "Bottoms"
+                                        },
+                                        {
+                                            "name": "Tops"
+                                        },
+                                        {
+                                            "name": "Outerwear"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Footwear",
+                                    "children": [
+                                        {
+                                            "name": "Casuals"
+                                        },
+                                        {
+                                            "name": "Flip Flops"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Accessories",
+                                    "children": [
+                                        {
+                                            "name": "Caps"
+                                        },
+                                        {
+                                            "name": "Water Bottles"
+                                        },
+                                        {
+                                            "name": "Socks"
+                                        },
+                                        {
+                                            "name": "Others"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Bags",
+                                    "children": [
+                                        {
+                                            "name": "Backpacks"
+                                        },
+                                        {
+                                            "name": "Messengers & Slings"
+                                        },
+                                        {
+                                            "name": "Totes"
+                                        },
+                                        {
+                                            "name": "Others"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Team Sports",
+                            "children": [
+                                {
+                                    "name": "Clothing"
+                                },
+                                {
+                                    "name": "Shoes"
+                                },
+                                {
+                                    "name": "Accessories"
+                                },
+                                {
+                                    "name": "Others"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Running",
+                            "children": [
+                                {
+                                    "name": "Bags & Backpacks"
+                                },
+                                {
+                                    "name": "Clothing",
+                                    "children": [
+                                        {
+                                            "name": "Tops"
+                                        },
+                                        {
+                                            "name": "Bottoms"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Footwear",
+                                    "children": [
+                                        {
+                                            "name": "Neutral"
+                                        },
+                                        {
+                                            "name": "Stability"
+                                        },
+                                        {
+                                            "name": "Barefoot"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Accessories",
+                                    "children": [
+                                        {
+                                            "name": "Caps"
+                                        },
+                                        {
+                                            "name": "Water Bottles"
+                                        },
+                                        {
+                                            "name": "Socks"
+                                        },
+                                        {
+                                            "name": "Belts"
+                                        },
+                                        {
+                                            "name": "Others"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shop by Category",
+                    "children": [
+                        {
+                            "name": "Clothing",
+                            "children": [
+                                {
+                                    "name": "Socks"
+                                },
+                                {
+                                    "name": "Bottoms",
+                                    "children": [
+                                        {
+                                            "name": "Shorts"
+                                        },
+                                        {
+                                            "name": "Pants"
+                                        },
+                                        {
+                                            "name": "Compression"
+                                        },
+                                        {
+                                            "name": "Boardshorts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Tops",
+                                    "children": [
+                                        {
+                                            "name": "T-Shirts"
+                                        },
+                                        {
+                                            "name": "Tanks & Singlets"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Compression"
+                                },
+                                {
+                                    "name": "Outerwear"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Footwear",
+                            "children": [
+                                {
+                                    "name": "Sneakers"
+                                },
+                                {
+                                    "name": "Running"
+                                },
+                                {
+                                    "name": "Neutral"
+                                },
+                                {
+                                    "name": "Stability"
+                                },
+                                {
+                                    "name": "Barefoot"
+                                },
+                                {
+                                    "name": "Training"
+                                },
+                                {
+                                    "name": "Lifestyle"
+                                },
+                                {
+                                    "name": "Sandals & Flip-Flops"
+                                },
+                                {
+                                    "name": "Others"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bags & Backpacks",
+                            "children": [
+                                {
+                                    "name": "Backpacks"
+                                },
+                                {
+                                    "name": "Messengers & Slings"
+                                },
+                                {
+                                    "name": "Waistpouches"
+                                },
+                                {
+                                    "name": "Shoebags"
+                                },
+                                {
+                                    "name": "Duffle Bags"
+                                },
+                                {
+                                    "name": "Others"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Accessories",
+                            "children": [
+                                {
+                                    "name": "Water Bottles"
+                                },
+                                {
+                                    "name": "Socks"
+                                },
+                                {
+                                    "name": "Caps"
+                                },
+                                {
+                                    "name": "Boxing & MMA Equipments"
+                                },
+                                {
+                                    "name": "Wearable Technologies"
+                                },
+                                {
+                                    "name": "Others"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
