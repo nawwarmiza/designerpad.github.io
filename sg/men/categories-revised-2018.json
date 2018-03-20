@@ -98,7 +98,7 @@
                                     "name": "Metal Strap Watches"
                                 },
                                 {
-                                    "name": "Leatehr Strap Watches"
+                                    "name": "Leather Strap Watches"
                                 },
                                 {
                                     "name": "Other Strap Watches"
@@ -170,23 +170,13 @@
                     "name": "Technology",
                     "children": [
                         {
-                            "name": "Phone Cases",
-                            "children": [
-                                {
-                                    "name": "iPod Cases"
-                                }
-                            ]
+                            "name": "Phone Cases"
                         },
                         {
                             "name": "Laptop Bags"
                         },
                         {
-                            "name": "Headphones",
-                            "children": [
-                                {
-                                    "name": "Wireless Headphones"
-                                }
-                            ]
+                            "name": "Headphones"
                         },
                         {
                             "name": "Tablet Cases"
@@ -243,14 +233,6 @@
                 },
                 {
                     "name": "Scarves & Shawls"
-                },
-                {
-                    "name": "Gloves",
-                    "children": [
-                        {
-                            "name": "Regular"
-                        }
-                    ]
                 }
             ]
         },
