@@ -490,12 +490,7 @@
                             "name": "Technology",
                             "children": [
                                 {
-                                    "name": "Phone & Tablet Cases",
-                                    "children": [
-                                        {
-                                            "name": "iPhone Cases"
-                                        }
-                                    ]
+                                    "name": "Phone & Tablet Cases"
                                 },
                                 {
                                     "name": "Laptop Bags & Sleeves"
