@@ -521,21 +521,7 @@
                             ]
                         },
                         {
-                            "name": "Gloves",
-                            "children": [
-                                {
-                                    "name": "Arm Warmers"
-                                },
-                                {
-                                    "name": "Regular"
-                                },
-                                {
-                                    "name": "Fingerless"
-                                },
-                                {
-                                    "name": "Mittens"
-                                }
-                            ]
+                            "name": "Gloves"
                         },
                         {
                             "name": "Hats",
