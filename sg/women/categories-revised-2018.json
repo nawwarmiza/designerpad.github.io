@@ -501,24 +501,7 @@
                             ]
                         },
                         {
-                            "name": "Belts",
-                            "children": [
-                                {
-                                    "name": "High Waisted"
-                                },
-                                {
-                                    "name": "Wide"
-                                },
-                                {
-                                    "name": "Skinny"
-                                },
-                                {
-                                    "name": "Leather"
-                                },
-                                {
-                                    "name": "Non-leather"
-                                }
-                            ]
+                            "name": "Belts"
                         },
                         {
                             "name": "Gloves"
