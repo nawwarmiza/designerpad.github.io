@@ -730,37 +730,6 @@
                             ]
                         },
                         {
-                            "name": "Boxing & MMA",
-                            "children": [
-                                {
-                                    "name": "Clothing",
-                                    "children": [
-                                        {
-                                            "name": "T-shirts"
-                                        },
-                                        {
-                                            "name": "Tanks & Singlets"
-                                        },
-                                        {
-                                            "name": "Shorts"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "name": "Accessories & Equipments"
-                                },
-                                {
-                                    "name": "Socks"
-                                },
-                                {
-                                    "name": "Belts"
-                                },
-                                {
-                                    "name": "Others"
-                                }
-                            ]
-                        },
-                        {
                             "name": "Lifestyle",
                             "children": [
                                 {
