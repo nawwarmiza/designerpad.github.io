@@ -683,28 +683,13 @@
                                     "name": "Clothing",
                                     "children": [
                                         {
-                                            "name": "Socks"
-                                        },
-                                        {
                                             "name": "Bottoms"
                                         },
                                         {
                                             "name": "Tops"
                                         },
                                         {
-                                            "name": "T-shirts"
-                                        },
-                                        {
-                                            "name": "Tanks/Singlets"
-                                        },
-                                        {
                                             "name": "Sports Bras"
-                                        },
-                                        {
-                                            "name": "Capris"
-                                        },
-                                        {
-                                            "name": "Shorts"
                                         }
                                     ]
                                 },
