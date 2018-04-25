@@ -2,31 +2,6 @@
     "name": "Men",
     "children": [
         {
-            "name": "Trends",
-            "children": [
-                {
-                    "name": "Korean Fashion",
-                    "children": [
-                        {
-                            "name": "Clothing"
-                        },
-                        {
-                            "name": "Accessories"
-                        },
-                        {
-                            "name": "Bags"
-                        },
-                        {
-                            "name": "Shoes"
-                        },
-                        {
-                            "name": "Grooming"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "name": "Occasions",
             "children": [
                 {
