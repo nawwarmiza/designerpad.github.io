@@ -1,5 +1,5 @@
 {
-    "name": "ZALORA",
+    "name": "Men",
     "children": [
         {
             "name": "Trends",
@@ -26,6 +26,23 @@
                 }
             ]
         },
+        {
+            "name": "Occasions",
+            "children": [
+                {
+                    "name": "Basics"
+                },
+                {
+                    "name": "Workwear"
+                },
+                {
+                    "name": "Chinese New Year"
+                },
+                {
+                    "name": "Streetwear"
+                },
+            ]
+        },        
         {
             "name": "Shoes",
             "children": [
