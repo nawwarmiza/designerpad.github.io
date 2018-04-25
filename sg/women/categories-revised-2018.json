@@ -935,6 +935,9 @@
                     ]
                 },
                 {
+                    "name": "Fragrance"
+                },                
+                {
                     "name": "Body",
                     "children": [
                         {
