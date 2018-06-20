@@ -580,6 +580,9 @@
                     "name": "Travel",
                     "children": [
                         {
+                            "name": "Belt Bags"
+                        },
+                        {
                             "name": "Travel Accessories"
                         },
                         {
