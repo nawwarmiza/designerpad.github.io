@@ -488,7 +488,15 @@
             "name": "Bags",
             "children": [
                 {
-                    "name": "Backpacks"
+                    "name": "Backpacks",
+                    "children": [
+                        {
+                            "name": "Plain Backpacks"
+                        },
+                        {
+                            "name": "Printed Backpacks"
+                        }
+                    ]
                 },
                 {
                     "name": "Messenger bags"
