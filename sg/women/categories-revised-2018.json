@@ -896,13 +896,67 @@
                     "name": "Makeup",
                     "children": [
                         {
-                            "name": "Face"
+                            "name": "Face",
+                            "children": [
+                                {
+                                    "name": "Foundations"
+                                },
+                                {
+                                    "name": "Powders"
+                                },
+                                {
+                                    "name": "Concealers"
+                                },
+                                {
+                                    "name": "BB & CC creams"
+                                },
+                                {
+                                    "name": "Blushers & Bronzers"
+                                },
+                                {
+                                    "name": "Make Up Removers"
+                                },
+                            ]
                         },
                         {
-                            "name": "Eyes"
+                            "name": "Eyes",
+                            "children": [
+                                {
+                                    "name": "Mascaras"
+                                },
+                                {
+                                    "name": "Eye Liners"
+                                },
+                                {
+                                    "name": "Eye Shadows"
+                                },
+                                {
+                                    "name": "Eye Palettes"
+                                },
+                                {
+                                    "name": "Brows"
+                                }
+                            ]
                         },
                         {
-                            "name": "Lips"
+                            "name": "Lips",
+                            "children": [
+                                {
+                                    "name": "Lipsticks"
+                                },
+                                {
+                                    "name": "Lip Glosses"
+                                },
+                                {
+                                    "name": "Lip Liners"
+                                },
+                                {
+                                    "name": "Lip Tints"
+                                },
+                                {
+                                    "name": "Lip Balms"
+                                }
+                            ]
                         },
                         {
                             "name": "Nails",
@@ -1007,7 +1061,7 @@
                             ]
                         },
                         {
-                            "name": "Make-up bags & travel cases"
+                            "name": "Make-up bags & cases"
                         }
                     ]
                 }
