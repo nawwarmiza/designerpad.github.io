@@ -667,7 +667,7 @@
                                     ]
                                 },
                                 {
-                                    "name": "Footwear",
+                                    "name": "Shoes",
                                     "children": [
                                         {
                                             "name": "Neutral"
@@ -803,7 +803,7 @@
                             ]
                         },
                         {
-                            "name": "Footwear",
+                            "name": "Shoes",
                             "children": [
                                 {
                                     "name": "Sneakers"
