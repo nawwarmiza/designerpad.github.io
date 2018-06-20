@@ -626,7 +626,7 @@
                                     "name": "Bags & Backpacks"
                                 },
                                 {
-                                    "name": "Footwear"
+                                    "name": "Shoes"
                                 },
                                 {
                                     "name": "Accessories"
@@ -710,7 +710,7 @@
                                     ]
                                 },
                                 {
-                                    "name": "Footwear",
+                                    "name": "Shoes",
                                     "children": [
                                         {
                                             "name": "Casuals"
@@ -871,7 +871,7 @@
                             ]
                         },
                         {
-                            "name": "Footwear",
+                            "name": "Shoes",
                             "children": [
                                 {
                                     "name": "Sneakers"
