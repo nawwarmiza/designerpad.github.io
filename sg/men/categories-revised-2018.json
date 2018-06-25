@@ -37,7 +37,15 @@
                     "name": "Boots"
                 },
                 {
-                    "name": "Sandals & Flip Flops"
+                    "name": "Sandals & Flip Flops",
+                    "children": [
+                        {
+                            "name": "Sandals"
+                        },
+                        {
+                            "name": "Flip Flops"
+                        }
+                    ]
                 },
                 {
                     "name": "Sport Shoes"
