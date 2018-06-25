@@ -2,6 +2,23 @@
     "name": "Men",
     "children": [
         {
+            "name": "Modest Wear",
+            "children": [
+                {
+                    "name": "Shirt"
+                },
+                {
+                    "name": "Baju Melayus"
+                },
+                {
+                    "name": "Sarongs"
+                },
+                {
+                    "name": "Jubah"
+                }
+            ]
+        },
+        {
             "name": "Occasions",
             "children": [
                 {
@@ -475,9 +492,6 @@
                             ]
                         }
                     ]
-                },
-                {
-                    "name": "Ethnic Wear"
                 },
                 {
                     "name": "Socks"
