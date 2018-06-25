@@ -2,6 +2,38 @@
     "name": "Women",
     "children": [
         {
+            "name": "Modest Wear",
+            "children": [
+                {
+                    "name": "Baju Kurungs"
+                },
+                {
+                    "name": "Kaftans & Jubah"
+                },
+                {
+                    "name": "Hijabs"
+                },
+                {
+                    "name": "Muslimah Tops"
+                },
+                {
+                    "name": "Muslimah Dresses"
+                },
+                {
+                    "name": "Muslimah Bottoms"
+                },
+                {
+                    "name": "Nursing & Maternity"
+                },
+                {
+                    "name": "Inners"
+                },
+                {
+                    "name": "Accessories"
+                }
+            ]
+        },
+        {
             "name": "Premium",
             "children": [
                 {
