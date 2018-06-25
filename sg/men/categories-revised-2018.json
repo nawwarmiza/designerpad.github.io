@@ -284,6 +284,9 @@
                                 },
                                 {
                                     "name": "Denim"
+                                },
+                                {
+                                    "name": "Batik"
                                 }
                             ]
                         },
@@ -304,6 +307,9 @@
                                 },
                                 {
                                     "name": "Denim"
+                                },
+                                {
+                                    "name": "Batik"
                                 }
                             ]
                         },
@@ -321,6 +327,9 @@
                         },
                         {
                             "name": "Checkered Shirts"
+                        },
+                        {
+                            "name": "Batik Shirts"
                         }
                     ]
                 },
