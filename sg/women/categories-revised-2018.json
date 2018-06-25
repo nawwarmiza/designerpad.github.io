@@ -742,7 +742,15 @@
                                     "name": "Sandals & Flip-Flops"
                                 },
                                 {
-                                    "name": "Swimwear"
+                                    "name": "Swimwear",
+                                    "children": [
+                                        {
+                                            "name": "Tops"
+                                        },
+                                        {
+                                            "name": "Bottoms"
+                                        }
+                                    ]
                                 },
                                 {
                                     "name": "One Piece"
