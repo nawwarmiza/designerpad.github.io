@@ -878,6 +878,20 @@
                             "name": "Yoga"
                         },
                         {
+                            "name": "Team Sports",
+                            "children": [
+                                {
+                                    "name": "Basketball"
+                                },
+                                {
+                                    "name": "Football"
+                                },
+                                {
+                                    "name": "Others"
+                                }
+                            ]
+                        },
+                        {
                             "name": "Swimming & Surf",
                             "children": [
                                 {
