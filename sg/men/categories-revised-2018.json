@@ -34,7 +34,7 @@
                     "name": "Streetwear"
                 }
             ]
-        },        
+        },
         {
             "name": "Shoes",
             "children": [
@@ -499,25 +499,96 @@
             "name": "Premium",
             "children": [
                 {
-                    "name": "Clothing"
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "T-Shirts"
+                        },
+                        {
+                            "name": "Shirts"
+                        },
+                        {
+                            "name": "Polos"
+                        },
+                        {
+                            "name": "Pants"
+                        },
+                        {
+                            "name": "Outerwear"
+                        },
+                        {
+                            "name": "Shorts"
+                        },
+                        {
+                            "name": "Jeans"
+                        },
+                        {
+                            "name": "Beachwear"
+                        },
+                        {
+                            "name": "Underwear & Sleepwear"
+                        }
+                    ]
                 },
                 {
-                    "name": "Shoes"
+                    "name": "Shoes",
+                    "children": [
+                        {
+                            "name": "Sneakers"
+                        },
+                        {
+                            "name": "Loafers & Boat Shoes"
+                        },
+                        {
+                            "name": "Formal"
+                        },
+                        {
+                            "name": "Boots"
+                        },
+                        {
+                            "name": "Sandals & Flip Flops"
+                        },
+                        {
+                            "name": "Sports Shoes"
+                        },
+                        {
+                            "name": "Slip-ons"
+                        }
+                    ]
                 },
                 {
-                    "name": "Accessories"
+                    "name": "Accessories",
+                    "children": [
+                        {
+                            "name": "Bags"
+                        },
+                        {
+                            "name": "Watches"
+                        },
+                        {
+                            "name": "Eyewear"
+                        },
+                        {
+                            "name": "Others"
+                        }
+                    ]
                 },
                 {
-                    "name": "Bags"
-                },
-                {
-                    "name": "Sports"
-                },
-                {
-                    "name": "Grooming"
-                },
-                {
-                    "name": "Watches"
+                    "name": "Sports",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        },
+                        {
+                            "name": "Bags & Backpacks"
+                        }
+                    ]
                 }
             ]
         },
@@ -794,13 +865,10 @@
                             "name": "Team Sports",
                             "children": [
                                 {
-                                    "name": "Clothing"
+                                    "name": "Basketball"
                                 },
                                 {
-                                    "name": "Shoes"
-                                },
-                                {
-                                    "name": "Accessories"
+                                    "name": "Football"
                                 },
                                 {
                                     "name": "Others"
