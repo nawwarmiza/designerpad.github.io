@@ -40,22 +40,140 @@
             "name": "Premium",
             "children": [
                 {
-                    "name": "Clothing"
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "Dresses"
+                        },
+                        {
+                            "name": "Tops"
+                        },
+                        {
+                            "name": "Skirts"
+                        },
+                        {
+                            "name": "Playsuits & Jumpsuits"
+                        },
+                        {
+                            "name": "Shorts"
+                        },
+                        {
+                            "name": "Pants & Leggings"
+                        },
+                        {
+                            "name": "Swimwear & Beachwear"
+                        },
+                        {
+                            "name": "Knitwear & Cardigans"
+                        },
+                        {
+                            "name": "Hoodies & Sweatshirts"
+                        },
+                        {
+                            "name": "Blazers"
+                        },
+                        {
+                            "name": "Jackets & Coats"
+                        },
+                        {
+                            "name": "Jeans"
+                        },
+                        {
+                            "name": "Lingerie & Sleepwear"
+                        },
+                        {
+                            "name": "Socks & Tights"
+                        }
+                    ]
                 },
                 {
-                    "name": "Shoes"
+                    "name": "Shoes",
+                    "children": [
+                        {
+                            "name": "Flats"
+                        },
+                        {
+                            "name": "Heels"
+                        },
+                        {
+                            "name": "Sandals"
+                        },
+                        {
+                            "name": "Wedges"
+                        },
+                        {
+                            "name": "Slip-Ons"
+                        },
+                        {
+                            "name": "Boots"
+                        },
+                        {
+                            "name": "Sneakers"
+                        },
+                        {
+                            "name": "Flip Flops"
+                        }
+                    ]
                 },
                 {
-                    "name": "Bags"
+                    "name": "Accessories",
+                    "children": [
+                        {
+                            "name": "Bags & Purses"
+                        },
+                        {
+                            "name": "Watches"
+                        },
+                        {
+                            "name": "Eyewear"
+                        },
+                        {
+                            "name": "Jewellery"
+                        },
+                        {
+                            "name": "Others"
+                        }
+                    ]
                 },
                 {
-                    "name": "Accessories"
+                    "name": "Beauty",
+                    "children": [
+                        {
+                            "name": "Makeup"
+                        },
+                        {
+                            "name": "Skin Care"
+                        },
+                        {
+                            "name": "Fragrance"
+                        },
+                        {
+                            "name": "Body"
+                        },
+                        {
+                            "name": "Hair"
+                        },
+                        {
+                            "name": "Tools & Brushes"
+                        }
+                    ]
                 },
                 {
-                    "name": "Beauty"
-                },
-                {
-                    "name": "Watches"
+                    "name": "Sports",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        },
+                        {
+                            "name": "Bags & Backpacks"
+                        }
+                    ]
                 }
             ]
         },
@@ -213,7 +331,7 @@
                         },
                         {
                             "name": "Ripped Jeans"
-                        },                        
+                        },
                         {
                             "name": "Flare Jeans"
                         },
@@ -1031,7 +1149,7 @@
                 },
                 {
                     "name": "Fragrance"
-                },                
+                },
                 {
                     "name": "Body",
                     "children": [
