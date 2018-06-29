@@ -626,22 +626,25 @@
                     ]
                 },
                 {
+                    "name": "Technology",
+                    "children": [
+                            {
+                                "name": "Gadget & Accessories"
+                            },
+                            {
+                                "name": "Phone & Tablet Cases"
+                            },
+                            {
+                                "name": "Laptop Bags & Sleeves"
+                            },
+                            {
+                                "name": "Headphones & Headsets"
+                            }
+                        ]
+                },
+                {
                     "name": "Others",
                     "children": [
-                        {
-                            "name": "Technology",
-                            "children": [
-                                {
-                                    "name": "Phone & Tablet Cases"
-                                },
-                                {
-                                    "name": "Laptop Bags & Sleeves"
-                                },
-                                {
-                                    "name": "Headphones & Headsets"
-                                }
-                            ]
-                        },
                         {
                             "name": "Belts"
                         },
