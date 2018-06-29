@@ -1106,21 +1106,21 @@
                             ]
                         },
                         {
-                            "name": "Nails",
-                            "children": [
-                                {
-                                    "name": "Nail Polish"
-                                },
-                                {
-                                    "name": "Nail Effects"
-                                },
-                                {
-                                    "name": "Nail Care & Tools"
-                                }
-                            ]
+                            "name": "Palettes & Sets"
+                        }
+                    ]
+                },
+                {
+                    "name": "Nails",
+                    "children": [
+                        {
+                            "name": "Nail Polish"
                         },
                         {
-                            "name": "Palettes & Sets"
+                            "name": "Nail Effects"
+                        },
+                        {
+                            "name": "Nail Care & Tools"
                         }
                     ]
                 },
