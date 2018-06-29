@@ -798,9 +798,6 @@
                             "name": "Lifestyle",
                             "children": [
                                 {
-                                    "name": "Sneakers"
-                                },
-                                {
                                     "name": "Clothing",
                                     "children": [
                                         {
@@ -817,6 +814,9 @@
                                 {
                                     "name": "Shoes",
                                     "children": [
+                                        {
+                                            "name": "Sneakers"
+                                        },
                                         {
                                             "name": "Casuals"
                                         },
