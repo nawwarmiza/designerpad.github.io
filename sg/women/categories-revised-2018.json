@@ -1221,6 +1221,67 @@
             ]
         },
         {
+            "name": "Occasions",
+            "children": [
+                {
+                    "name": "Basics",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+                {
+                    "name": "Workwear",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chinese New Year",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+                {
+                    "name": "Streetwear",
+                    "children": [
+                        {
+                            "name": "Clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Accessories"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Trends",
             "children": [
                 {
