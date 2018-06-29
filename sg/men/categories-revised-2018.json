@@ -177,22 +177,19 @@
                 {
                     "name": "Technology",
                     "children": [
-                        {
-                            "name": "Phone Cases"
-                        },
-                        {
-                            "name": "Laptop Bags"
-                        },
-                        {
-                            "name": "Headphones"
-                        },
-                        {
-                            "name": "Tablet Cases"
-                        },
-                        {
-                            "name": "Laptop Cases"
-                        }
-                    ]
+                            {
+                                "name": "Gadget & Accessories"
+                            },
+                            {
+                                "name": "Phone & Tablet Cases"
+                            },
+                            {
+                                "name": "Laptop Bags & Sleeves"
+                            },
+                            {
+                                "name": "Headphones & Headsets"
+                            }
+                        ]
                 },
                 {
                     "name": "Ties & Accessories",
